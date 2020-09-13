@@ -1,4 +1,4 @@
-# SBSPS-Challenge-1530-Food-Availability-and-Access-Predictor---FAAP
+# Food-Availability-and-Access-Predictor---FAAP
 
 ## Description
 The coronavirus pandemic will see more than a quarter of a billion people suffering from acute hunger by the end of the year. Risks faced my food security during the COVID-19 crisis have a major effect on disruptions in domestic food supply chains, other shocks affecting food production, and loss of incomes and remittances are creating strong tensions.
