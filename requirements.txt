@@ -1,0 +1,8 @@
+scikit-learn==0.20
+dash
+pandas
+numpy
+plotly
+json==2.0.9
+requests==2.23.0
+urllib

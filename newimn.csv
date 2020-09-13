@@ -1,0 +1,109 @@
+State/UT,Year,Underweight,Stunting ,Wasting 
+Andaman and Nicobar Islands,1992,41.8,50,17.1
+Andaman and Nicobar Islands,2005,36.2,42,18.1
+Andaman and Nicobar Islands,2015,21.6,23,18.9
+Andhra Pradesh,1992,46,50.8,17.1
+Andhra Pradesh,2005,32,42.7,12.2
+Andhra Pradesh,2015,31,31.4,17.2
+Arunachal Pradesh,1992,35.7,59,13.4
+Arunachal Pradesh,2005,32.5,43.3,15.3
+Arunachal Pradesh,2015,19.5,29.4,17.3
+Assam,1992,46.4,58.2,13.6
+Assam,2005,36.4,46.5,13.7
+Assam,2015,29.8,36.4,17
+Bihar,1992,60.7,64.6,27.8
+Bihar,2005,55.9,55.6,27.1
+Bihar,2015,43.9,48.3,20.8
+Chandigarh,1992,41.8,50,17.1
+Chandigarh,2005,36.2,42,18.1
+Chandigarh,2015,24.5,28,10.9
+Chhattisgarh,1992,41,50,17.1
+Chhattisgarh,2005,47,52,19.5
+Chhattisgarh,2015,37,37,23.1
+Dadra & Nagar Haveli,1992,41.8,50,17
+Dadra & Nagar Haveli,2005,36.2,42,18
+Dadra & Nagar Haveli,2015,38.9,41,27
+Daman & Diu,1992,41.8,50.8,17
+Daman & Diu,2005,36.2,42.9,18
+Daman & Diu,2015,26.7,23.4,24
+Delhi,1992,41.8,50,17.1
+Delhi,2005,26.1,42,15.4
+Delhi,2015,27,32,17.1
+Goa,1992,31.7,38.2,17.3
+Goa,2005,25,25.6,14.1
+Goa,2015,23.8,20.1,21.9
+Gujarat,1992,45,53.9,21.3
+Gujarat,2005,44,51.7,18.7
+Gujarat,2015,39,38.5,26.4
+Haryana,1992,34,53.8,7.9
+Haryana,2005,39,45.7,19.1
+Haryana,2015,29,34,21.2
+Himachal Pradesh,1992,42,50.8,17
+Himachal Pradesh,2005,36.5,38.6,19.3
+Himachal Pradesh,2015,21.2,26.3,13.7
+Jammu & Kashmir,1992,38.2,47,16.7
+Jammu & Kashmir,2005,25.6,35,14.8
+Jammu & Kashmir,2015,16.6,27,12.1
+Jharkhand,1992,41.8,50.8,17.1
+Jharkhand,2005,56.5,49.8,32.3
+Jharkhand,2015,47.8,45,29
+Karnataka,1992,49,54,20.5
+Karnataka,2005,37,43.7,17.6
+Karnataka,2015,35.2,36.2,26.1
+Kerala,1992,23.5,35.6,12
+Kerala,2005,22.9,24.5,15
+Kerala,2015,16.1,19.7,15
+Lakshadweep,1992,41.8,50,17.1
+Lakshadweep,2005,36.2,42,18.1
+Lakshadweep,2015,23.4,27,13.8
+Madhya Pradesh,1992,58.3,50.8,17.1
+Madhya Pradesh,2005,60,50,35
+Madhya Pradesh,2015,42.8,42,25.8
+Maharashtra,1992,51.9,53.9,23
+Maharashtra,2005,37,46.3,16
+Maharashtra,2015,36,34.4,25
+Manipur,1992,24.5,41,8.8
+Manipur,2005,22.2,35,9
+Manipur,2015,13.8,28,6.8
+Meghalaya,1992,40.3,52,19.7
+Meghalaya,2005,48.8,51,30.7
+Meghalaya,2015,29,43,15.3
+Mizoram,1992,20,47.2,3.8
+Mizoram,2005,19,39.8,9
+Mizoram,2015,11,28,6.1
+Nagaland,1992,23.6,37.6,12.7
+Nagaland,2005,25.2,38.8,13.3
+Nagaland,2015,16.8,28.6,11.2
+Odisha,1992,51.3,53.6,24.9
+Odisha,2005,40.7,45,19.6
+Odisha,2015,34.4,34.1,20.4
+Puducherry,1992,41.8,50,17
+Puducherry,2005,36.2,42,18
+Puducherry,2015,22,23,23
+Punjab,1992,41.1,46.8,19.8
+Punjab,2005,24.9,36.7,6.2
+Punjab,2015,21.6,25.7,15.6
+Rajasthan,1992,42.4,46.9,22.3
+Rajasthan,2005,39.9,43.7,20.4
+Rajasthan,2015,36.7,39.1,23
+Sikkim,1992,41.8,50,17.1
+Sikkim,2005,19.7,38,9.7
+Sikkim,2015,14.2,29,14.2
+Tamil Nadu,1992,43,50,17.1
+Tamil Nadu,2005,29.8,30,22.2
+Tamil Nadu,2015,23.8,27,19.7
+Telangana,1992,41.8,50,17.1
+Telangana,2005,36.2,42,18.1
+Telangana,2015,28.5,28,18
+Tripura,1992,44,53.3,18.9
+Tripura,2005,39,35.7,24.6
+Tripura,2015,24,24.3,16.8
+Uttar Pradesh,1992,55.6,64.4,20
+Uttar Pradesh,2005,42.4,56.8,14
+Uttar Pradesh,2015,27.8,31.9,18
+Uttarakhand,1992,41.8,50.8,17
+Uttarakhand,2005,38,44.4,18
+Uttarakhand,2015,26.6,33.5,19
+West Bengal,1992,54,50.8,17.1
+West Bengal,2005,38.7,44.6,16.9
+West Bengal,2015,31.5,32.5,20.3

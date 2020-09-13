@@ -1,0 +1,2451 @@
+State,Year,Crop,Demand
+Andaman and Nicobar Islands,2010,Bajra,4268
+Andaman and Nicobar Islands,2011,Bajra,4865.52
+Andaman and Nicobar Islands,2012,Bajra,4694.8
+Andaman and Nicobar Islands,2013,Bajra,4993.56
+Andaman and Nicobar Islands,2014,Bajra,5121.6
+Andaman and Nicobar Islands,2015,Bajra,5292.32
+Andaman and Nicobar Islands,2016,Bajra,5377.68
+Andaman and Nicobar Islands,2017,Bajra,5676.44
+Andaman and Nicobar Islands,2018,Bajra,5335
+Andaman and Nicobar Islands,2019,Bajra,5761.8
+Andhra Pradesh,2010,Bajra,80478
+Andhra Pradesh,2011,Bajra,91744.92
+Andhra Pradesh,2012,Bajra,88525.8
+Andhra Pradesh,2013,Bajra,94159.26
+Andhra Pradesh,2014,Bajra,96573.6
+Andhra Pradesh,2015,Bajra,99792.72
+Andhra Pradesh,2016,Bajra,101402.28
+Andhra Pradesh,2017,Bajra,107035.74
+Andhra Pradesh,2018,Bajra,100597.5
+Andhra Pradesh,2019,Bajra,108645.3
+Arunachal Pradesh,2010,Bajra,10678
+Arunachal Pradesh,2011,Bajra,12172.92
+Arunachal Pradesh,2012,Bajra,11745.8
+Arunachal Pradesh,2013,Bajra,12493.26
+Arunachal Pradesh,2014,Bajra,12813.6
+Arunachal Pradesh,2015,Bajra,13240.72
+Arunachal Pradesh,2016,Bajra,13454.28
+Arunachal Pradesh,2017,Bajra,14201.74
+Arunachal Pradesh,2018,Bajra,13347.5
+Arunachal Pradesh,2019,Bajra,14415.3
+Assam,2010,Bajra,8632
+Assam,2011,Bajra,9840.48
+Assam,2012,Bajra,9495.2
+Assam,2013,Bajra,10099.44
+Assam,2014,Bajra,10358.4
+Assam,2015,Bajra,10703.68
+Assam,2016,Bajra,10876.32
+Assam,2017,Bajra,11480.56
+Assam,2018,Bajra,10790
+Assam,2019,Bajra,11653.2
+Bihar,2010,Bajra,15720
+Bihar,2011,Bajra,17920.8
+Bihar,2012,Bajra,17292
+Bihar,2013,Bajra,18392.4
+Bihar,2014,Bajra,18864
+Bihar,2015,Bajra,19492.8
+Bihar,2016,Bajra,19807.2
+Bihar,2017,Bajra,20907.6
+Bihar,2018,Bajra,19650
+Bihar,2019,Bajra,21222
+Chandigarh,2010,Bajra,26340
+Chandigarh,2011,Bajra,30027.6
+Chandigarh,2012,Bajra,28974
+Chandigarh,2013,Bajra,30817.8
+Chandigarh,2014,Bajra,31608
+Chandigarh,2015,Bajra,32661.6
+Chandigarh,2016,Bajra,33188.4
+Chandigarh,2017,Bajra,35032.2
+Chandigarh,2018,Bajra,32925
+Chandigarh,2019,Bajra,35559
+Chhattisgarh,2010,Bajra,590
+Chhattisgarh,2011,Bajra,672.6
+Chhattisgarh,2012,Bajra,649
+Chhattisgarh,2013,Bajra,690.3
+Chhattisgarh,2014,Bajra,708
+Chhattisgarh,2015,Bajra,731.6
+Chhattisgarh,2016,Bajra,743.4
+Chhattisgarh,2017,Bajra,784.7
+Chhattisgarh,2018,Bajra,737.5
+Chhattisgarh,2019,Bajra,796.5
+Dadra and Nagar Haveli,2010,Bajra,1890
+Dadra and Nagar Haveli,2011,Bajra,2154.6
+Dadra and Nagar Haveli,2012,Bajra,2079
+Dadra and Nagar Haveli,2013,Bajra,2211.3
+Dadra and Nagar Haveli,2014,Bajra,2268
+Dadra and Nagar Haveli,2015,Bajra,2343.6
+Dadra and Nagar Haveli,2016,Bajra,2381.4
+Dadra and Nagar Haveli,2017,Bajra,2513.7
+Dadra and Nagar Haveli,2018,Bajra,2362.5
+Dadra and Nagar Haveli,2019,Bajra,2551.5
+Daman and Diu,2010,Bajra,60043
+Daman and Diu,2011,Bajra,68449.02
+Daman and Diu,2012,Bajra,66047.3
+Daman and Diu,2013,Bajra,70250.31
+Daman and Diu,2014,Bajra,72051.6
+Daman and Diu,2015,Bajra,74453.32
+Daman and Diu,2016,Bajra,75654.18
+Daman and Diu,2017,Bajra,79857.19
+Daman and Diu,2018,Bajra,75053.75
+Daman and Diu,2019,Bajra,81058.05
+Delhi,2010,Bajra,70420
+Delhi,2011,Bajra,80278.8
+Delhi,2012,Bajra,77462
+Delhi,2013,Bajra,82391.4
+Delhi,2014,Bajra,84504
+Delhi,2015,Bajra,87320.8
+Delhi,2016,Bajra,88729.2
+Delhi,2017,Bajra,93658.6
+Delhi,2018,Bajra,88025
+Delhi,2019,Bajra,95067
+Goa,2010,Bajra,2390
+Goa,2011,Bajra,2724.6
+Goa,2012,Bajra,2629
+Goa,2013,Bajra,2796.3
+Goa,2014,Bajra,2868
+Goa,2015,Bajra,2963.6
+Goa,2016,Bajra,3011.4
+Goa,2017,Bajra,3178.7
+Goa,2018,Bajra,2987.5
+Goa,2019,Bajra,3226.5
+Gujarat,2010,Bajra,1858300
+Gujarat,2011,Bajra,2118462
+Gujarat,2012,Bajra,2044130
+Gujarat,2013,Bajra,2174211
+Gujarat,2014,Bajra,2229960
+Gujarat,2015,Bajra,2304292
+Gujarat,2016,Bajra,2341458
+Gujarat,2017,Bajra,2471539
+Gujarat,2018,Bajra,2322875
+Gujarat,2019,Bajra,2508705
+Haryana,2010,Bajra,1395343
+Haryana,2011,Bajra,1590691.02
+Haryana,2012,Bajra,1534877.3
+Haryana,2013,Bajra,1632551.31
+Haryana,2014,Bajra,1674411.6
+Haryana,2015,Bajra,1730225.32
+Haryana,2016,Bajra,1758132.18
+Haryana,2017,Bajra,1855806.19
+Haryana,2018,Bajra,1744178.75
+Haryana,2019,Bajra,1883713.05
+Himachal Pradesh,2010,Bajra,5000
+Himachal Pradesh,2011,Bajra,5700
+Himachal Pradesh,2012,Bajra,5500
+Himachal Pradesh,2013,Bajra,5850
+Himachal Pradesh,2014,Bajra,6000
+Himachal Pradesh,2015,Bajra,6200
+Himachal Pradesh,2016,Bajra,6300
+Himachal Pradesh,2017,Bajra,6650
+Himachal Pradesh,2018,Bajra,6250
+Himachal Pradesh,2019,Bajra,6750
+Jammu and Kashmir,2010,Bajra,9972
+Jammu and Kashmir,2011,Bajra,11368.08
+Jammu and Kashmir,2012,Bajra,10969.2
+Jammu and Kashmir,2013,Bajra,11667.24
+Jammu and Kashmir,2014,Bajra,11966.4
+Jammu and Kashmir,2015,Bajra,12365.28
+Jammu and Kashmir,2016,Bajra,12564.72
+Jammu and Kashmir,2017,Bajra,13262.76
+Jammu and Kashmir,2018,Bajra,12465
+Jammu and Kashmir,2019,Bajra,13462.2
+Jharkhand,2010,Bajra,50342
+Jharkhand,2011,Bajra,57389.88
+Jharkhand,2012,Bajra,55376.2
+Jharkhand,2013,Bajra,58900.14
+Jharkhand,2014,Bajra,60410.4
+Jharkhand,2015,Bajra,62424.08
+Jharkhand,2016,Bajra,63430.92
+Jharkhand,2017,Bajra,66954.86
+Jharkhand,2018,Bajra,62927.5
+Jharkhand,2019,Bajra,67961.7
+Karnataka,2010,Bajra,150200
+Karnataka,2011,Bajra,171228
+Karnataka,2012,Bajra,165220
+Karnataka,2013,Bajra,175734
+Karnataka,2014,Bajra,180240
+Karnataka,2015,Bajra,186248
+Karnataka,2016,Bajra,189252
+Karnataka,2017,Bajra,199766
+Karnataka,2018,Bajra,187750
+Karnataka,2019,Bajra,202770
+Kerala,2010,Bajra,40256
+Kerala,2011,Bajra,45891.84
+Kerala,2012,Bajra,44281.6
+Kerala,2013,Bajra,47099.52
+Kerala,2014,Bajra,48307.2
+Kerala,2015,Bajra,49917.44
+Kerala,2016,Bajra,50722.56
+Kerala,2017,Bajra,53540.48
+Kerala,2018,Bajra,50320
+Kerala,2019,Bajra,54345.6
+Lakshadweep,2010,Bajra,590
+Lakshadweep,2011,Bajra,672.6
+Lakshadweep,2012,Bajra,649
+Lakshadweep,2013,Bajra,690.3
+Lakshadweep,2014,Bajra,708
+Lakshadweep,2015,Bajra,731.6
+Lakshadweep,2016,Bajra,743.4
+Lakshadweep,2017,Bajra,784.7
+Lakshadweep,2018,Bajra,737.5
+Lakshadweep,2019,Bajra,796.5
+Madhya Pradesh,2010,Bajra,384070
+Madhya Pradesh,2011,Bajra,437839.8
+Madhya Pradesh,2012,Bajra,422477
+Madhya Pradesh,2013,Bajra,449361.9
+Madhya Pradesh,2014,Bajra,460884
+Madhya Pradesh,2015,Bajra,476246.8
+Madhya Pradesh,2016,Bajra,483928.2
+Madhya Pradesh,2017,Bajra,510813.1
+Madhya Pradesh,2018,Bajra,480087.5
+Madhya Pradesh,2019,Bajra,518494.5
+Maharastra,2010,Bajra,1224600
+Maharastra,2011,Bajra,1396044
+Maharastra,2012,Bajra,1347060
+Maharastra,2013,Bajra,1432782
+Maharastra,2014,Bajra,1469520
+Maharastra,2015,Bajra,1518504
+Maharastra,2016,Bajra,1542996
+Maharastra,2017,Bajra,1628718
+Maharastra,2018,Bajra,1530750
+Maharastra,2019,Bajra,1653210
+Manipur,2010,Bajra,6801
+Manipur,2011,Bajra,7753.14
+Manipur,2012,Bajra,7481.1
+Manipur,2013,Bajra,7957.17
+Manipur,2014,Bajra,8161.2
+Manipur,2015,Bajra,8433.24
+Manipur,2016,Bajra,8569.26
+Manipur,2017,Bajra,9045.33
+Manipur,2018,Bajra,8501.25
+Manipur,2019,Bajra,9181.35
+Meghalaya,2010,Bajra,5200
+Meghalaya,2011,Bajra,5928
+Meghalaya,2012,Bajra,5720
+Meghalaya,2013,Bajra,6084
+Meghalaya,2014,Bajra,6240
+Meghalaya,2015,Bajra,6448
+Meghalaya,2016,Bajra,6552
+Meghalaya,2017,Bajra,6916
+Meghalaya,2018,Bajra,6500
+Meghalaya,2019,Bajra,7020
+Mizoram,2010,Bajra,3498
+Mizoram,2011,Bajra,3987.72
+Mizoram,2012,Bajra,3847.8
+Mizoram,2013,Bajra,4092.66
+Mizoram,2014,Bajra,4197.6
+Mizoram,2015,Bajra,4337.52
+Mizoram,2016,Bajra,4407.48
+Mizoram,2017,Bajra,4652.34
+Mizoram,2018,Bajra,4372.5
+Mizoram,2019,Bajra,4722.3
+Nagaland,2010,Bajra,2607
+Nagaland,2011,Bajra,2971.98
+Nagaland,2012,Bajra,2867.7
+Nagaland,2013,Bajra,3050.19
+Nagaland,2014,Bajra,3128.4
+Nagaland,2015,Bajra,3232.68
+Nagaland,2016,Bajra,3284.82
+Nagaland,2017,Bajra,3467.31
+Nagaland,2018,Bajra,3258.75
+Nagaland,2019,Bajra,3519.45
+Odisha,2010,Bajra,5489
+Odisha,2011,Bajra,6257.46
+Odisha,2012,Bajra,6037.9
+Odisha,2013,Bajra,6422.13
+Odisha,2014,Bajra,6586.8
+Odisha,2015,Bajra,6806.36
+Odisha,2016,Bajra,6916.14
+Odisha,2017,Bajra,7300.37
+Odisha,2018,Bajra,6861.25
+Odisha,2019,Bajra,7410.15
+Puducherry,2010,Bajra,5468
+Puducherry,2011,Bajra,6233.52
+Puducherry,2012,Bajra,6014.8
+Puducherry,2013,Bajra,6397.56
+Puducherry,2014,Bajra,6561.6
+Puducherry,2015,Bajra,6780.32
+Puducherry,2016,Bajra,6889.68
+Puducherry,2017,Bajra,7272.44
+Puducherry,2018,Bajra,6835
+Puducherry,2019,Bajra,7381.8
+Punjab,2010,Bajra,6990
+Punjab,2011,Bajra,7968.6
+Punjab,2012,Bajra,7689
+Punjab,2013,Bajra,8178.3
+Punjab,2014,Bajra,8388
+Punjab,2015,Bajra,8667.6
+Punjab,2016,Bajra,8807.4
+Punjab,2017,Bajra,9296.7
+Punjab,2018,Bajra,8737.5
+Punjab,2019,Bajra,9436.5
+Rajasthan,2010,Bajra,2556054
+Rajasthan,2011,Bajra,2913901.56
+Rajasthan,2012,Bajra,2811659.4
+Rajasthan,2013,Bajra,2990583.18
+Rajasthan,2014,Bajra,3067264.8
+Rajasthan,2015,Bajra,3169506.96
+Rajasthan,2016,Bajra,3220628.04
+Rajasthan,2017,Bajra,3399551.82
+Rajasthan,2018,Bajra,3195067.5
+Rajasthan,2019,Bajra,3450672.9
+Sikkim,2010,Bajra,2340
+Sikkim,2011,Bajra,2667.6
+Sikkim,2012,Bajra,2574
+Sikkim,2013,Bajra,2737.8
+Sikkim,2014,Bajra,2808
+Sikkim,2015,Bajra,2901.6
+Sikkim,2016,Bajra,2948.4
+Sikkim,2017,Bajra,3112.2
+Sikkim,2018,Bajra,2925
+Sikkim,2019,Bajra,3159
+Tamil Nadu,2010,Bajra,90345
+Tamil Nadu,2011,Bajra,102993.3
+Tamil Nadu,2012,Bajra,99379.5
+Tamil Nadu,2013,Bajra,105703.65
+Tamil Nadu,2014,Bajra,108414
+Tamil Nadu,2015,Bajra,112027.8
+Tamil Nadu,2016,Bajra,113834.7
+Tamil Nadu,2017,Bajra,120158.85
+Tamil Nadu,2018,Bajra,112931.25
+Tamil Nadu,2019,Bajra,121965.75
+Tripura,2010,Bajra,3200
+Tripura,2011,Bajra,3648
+Tripura,2012,Bajra,3520
+Tripura,2013,Bajra,3744
+Tripura,2014,Bajra,3840
+Tripura,2015,Bajra,3968
+Tripura,2016,Bajra,4032
+Tripura,2017,Bajra,4256
+Tripura,2018,Bajra,4000
+Tripura,2019,Bajra,4320
+Uttar Pradesh,2010,Bajra,1378309
+Uttar Pradesh,2011,Bajra,1571272.26
+Uttar Pradesh,2012,Bajra,1516139.9
+Uttar Pradesh,2013,Bajra,1612621.53
+Uttar Pradesh,2014,Bajra,1653970.8
+Uttar Pradesh,2015,Bajra,1709103.16
+Uttar Pradesh,2016,Bajra,1736669.34
+Uttar Pradesh,2017,Bajra,1833150.97
+Uttar Pradesh,2018,Bajra,1722886.25
+Uttar Pradesh,2019,Bajra,1860717.15
+Uttarakhand,2010,Bajra,500
+Uttarakhand,2011,Bajra,570
+Uttarakhand,2012,Bajra,550
+Uttarakhand,2013,Bajra,585
+Uttarakhand,2014,Bajra,600
+Uttarakhand,2015,Bajra,620
+Uttarakhand,2016,Bajra,630
+Uttarakhand,2017,Bajra,665
+Uttarakhand,2018,Bajra,625
+Uttarakhand,2019,Bajra,675
+West Bengal,2010,Bajra,2400
+West Bengal,2011,Bajra,2736
+West Bengal,2012,Bajra,2640
+West Bengal,2013,Bajra,2808
+West Bengal,2014,Bajra,2880
+West Bengal,2015,Bajra,2976
+West Bengal,2016,Bajra,3024
+West Bengal,2017,Bajra,3192
+West Bengal,2018,Bajra,3000
+West Bengal,2019,Bajra,3240
+Andaman and Nicobar Islands,2010,Jowar,488.7844
+Andaman and Nicobar Islands,2011,Jowar,557.214216
+Andaman and Nicobar Islands,2012,Jowar,537.66284
+Andaman and Nicobar Islands,2013,Jowar,571.877748
+Andaman and Nicobar Islands,2014,Jowar,586.54128
+Andaman and Nicobar Islands,2015,Jowar,606.092656
+Andaman and Nicobar Islands,2016,Jowar,615.868344
+Andaman and Nicobar Islands,2017,Jowar,650.083252
+Andaman and Nicobar Islands,2018,Jowar,610.9805
+Andaman and Nicobar Islands,2019,Jowar,659.85894
+Andhra Pradesh,2010,Jowar,109954.65
+Andhra Pradesh,2011,Jowar,125348.301
+Andhra Pradesh,2012,Jowar,120950.115
+Andhra Pradesh,2013,Jowar,128646.9405
+Andhra Pradesh,2014,Jowar,131945.58
+Andhra Pradesh,2015,Jowar,136343.766
+Andhra Pradesh,2016,Jowar,138542.859
+Andhra Pradesh,2017,Jowar,146239.6845
+Andhra Pradesh,2018,Jowar,137443.3125
+Andhra Pradesh,2019,Jowar,148438.7775
+Arunachal Pradesh,2010,Jowar,1876.84
+Arunachal Pradesh,2011,Jowar,2139.5976
+Arunachal Pradesh,2012,Jowar,2064.524
+Arunachal Pradesh,2013,Jowar,2195.9028
+Arunachal Pradesh,2014,Jowar,2252.208
+Arunachal Pradesh,2015,Jowar,2327.2816
+Arunachal Pradesh,2016,Jowar,2364.8184
+Arunachal Pradesh,2017,Jowar,2496.1972
+Arunachal Pradesh,2018,Jowar,2346.05
+Arunachal Pradesh,2019,Jowar,2533.734
+Assam,2010,Jowar,36665.5824
+Assam,2011,Jowar,41798.76394
+Assam,2012,Jowar,40332.14064
+Assam,2013,Jowar,42898.73141
+Assam,2014,Jowar,43998.69888
+Assam,2015,Jowar,45465.32218
+Assam,2016,Jowar,46198.63382
+Assam,2017,Jowar,48765.22459
+Assam,2018,Jowar,45831.978
+Assam,2019,Jowar,49498.53624
+Bihar,2010,Jowar,152706.7905
+Bihar,2011,Jowar,174085.7412
+Bihar,2012,Jowar,167977.4696
+Bihar,2013,Jowar,178666.9449
+Bihar,2014,Jowar,183248.1486
+Bihar,2015,Jowar,189356.4202
+Bihar,2016,Jowar,192410.556
+Bihar,2017,Jowar,203100.0314
+Bihar,2018,Jowar,190883.4881
+Bihar,2019,Jowar,206154.1672
+Chandigarh,2010,Jowar,1215.066
+Chandigarh,2011,Jowar,1385.17524
+Chandigarh,2012,Jowar,1336.5726
+Chandigarh,2013,Jowar,1421.62722
+Chandigarh,2014,Jowar,1458.0792
+Chandigarh,2015,Jowar,1506.68184
+Chandigarh,2016,Jowar,1530.98316
+Chandigarh,2017,Jowar,1616.03778
+Chandigarh,2018,Jowar,1518.8325
+Chandigarh,2019,Jowar,1640.3391
+Chhattisgarh,2010,Jowar,39164.8754
+Chhattisgarh,2011,Jowar,44647.95796
+Chhattisgarh,2012,Jowar,43081.36294
+Chhattisgarh,2013,Jowar,45822.90422
+Chhattisgarh,2014,Jowar,46997.85048
+Chhattisgarh,2015,Jowar,48564.4455
+Chhattisgarh,2016,Jowar,49347.743
+Chhattisgarh,2017,Jowar,52089.28428
+Chhattisgarh,2018,Jowar,48956.09425
+Chhattisgarh,2019,Jowar,52872.58179
+Dadra and Nagar Haveli,2010,Jowar,467.2136
+Dadra and Nagar Haveli,2011,Jowar,532.623504
+Dadra and Nagar Haveli,2012,Jowar,513.93496
+Dadra and Nagar Haveli,2013,Jowar,546.639912
+Dadra and Nagar Haveli,2014,Jowar,560.65632
+Dadra and Nagar Haveli,2015,Jowar,579.344864
+Dadra and Nagar Haveli,2016,Jowar,588.689136
+Dadra and Nagar Haveli,2017,Jowar,621.394088
+Dadra and Nagar Haveli,2018,Jowar,584.017
+Dadra and Nagar Haveli,2019,Jowar,630.73836
+Daman and Diu,2010,Jowar,330.0108
+Daman and Diu,2011,Jowar,376.212312
+Daman and Diu,2012,Jowar,363.01188
+Daman and Diu,2013,Jowar,386.112636
+Daman and Diu,2014,Jowar,396.01296
+Daman and Diu,2015,Jowar,409.213392
+Daman and Diu,2016,Jowar,415.813608
+Daman and Diu,2017,Jowar,438.914364
+Daman and Diu,2018,Jowar,412.5135
+Daman and Diu,2019,Jowar,445.51458
+Delhi,2010,Jowar,19332.2116
+Delhi,2011,Jowar,22038.72122
+Delhi,2012,Jowar,21265.43276
+Delhi,2013,Jowar,22618.68757
+Delhi,2014,Jowar,23198.65392
+Delhi,2015,Jowar,23971.94238
+Delhi,2016,Jowar,24358.58662
+Delhi,2017,Jowar,25711.84143
+Delhi,2018,Jowar,24165.2645
+Delhi,2019,Jowar,26098.48566
+Goa,2010,Jowar,1723.7472
+Goa,2011,Jowar,1965.071808
+Goa,2012,Jowar,1896.12192
+Goa,2013,Jowar,2016.784224
+Goa,2014,Jowar,2068.49664
+Goa,2015,Jowar,2137.446528
+Goa,2016,Jowar,2171.921472
+Goa,2017,Jowar,2292.583776
+Goa,2018,Jowar,2154.684
+Goa,2019,Jowar,2327.05872
+Gujarat,2010,Jowar,83807.6792
+Gujarat,2011,Jowar,95540.75429
+Gujarat,2012,Jowar,92188.44712
+Gujarat,2013,Jowar,98054.98466
+Gujarat,2014,Jowar,100569.215
+Gujarat,2015,Jowar,103921.5222
+Gujarat,2016,Jowar,105597.6758
+Gujarat,2017,Jowar,111464.2133
+Gujarat,2018,Jowar,104759.599
+Gujarat,2019,Jowar,113140.3669
+Haryana,2010,Jowar,28399.5556
+Haryana,2011,Jowar,32375.49338
+Haryana,2012,Jowar,31239.51116
+Haryana,2013,Jowar,33227.48005
+Haryana,2014,Jowar,34079.46672
+Haryana,2015,Jowar,35215.44894
+Haryana,2016,Jowar,35783.44006
+Haryana,2017,Jowar,37771.40895
+Haryana,2018,Jowar,35499.4445
+Haryana,2019,Jowar,38339.40006
+Himachal Pradesh,2010,Jowar,8499.6431
+Himachal Pradesh,2011,Jowar,9689.593134
+Himachal Pradesh,2012,Jowar,9349.60741
+Himachal Pradesh,2013,Jowar,9944.582427
+Himachal Pradesh,2014,Jowar,10199.57172
+Himachal Pradesh,2015,Jowar,10539.55744
+Himachal Pradesh,2016,Jowar,10709.55031
+Himachal Pradesh,2017,Jowar,11304.52532
+Himachal Pradesh,2018,Jowar,10624.55388
+Himachal Pradesh,2019,Jowar,11474.51819
+Jammu and Kashmir,2010,Jowar,13247.2896
+Jammu and Kashmir,2011,Jowar,15101.91014
+Jammu and Kashmir,2012,Jowar,14572.01856
+Jammu and Kashmir,2013,Jowar,15499.32883
+Jammu and Kashmir,2014,Jowar,15896.74752
+Jammu and Kashmir,2015,Jowar,16426.6391
+Jammu and Kashmir,2016,Jowar,16691.5849
+Jammu and Kashmir,2017,Jowar,17618.89517
+Jammu and Kashmir,2018,Jowar,16559.112
+Jammu and Kashmir,2019,Jowar,17883.84096
+Jharkhand,2010,Jowar,54182.8046
+Jharkhand,2011,Jowar,61768.39724
+Jharkhand,2012,Jowar,59601.08506
+Jharkhand,2013,Jowar,63393.88138
+Jharkhand,2014,Jowar,65019.36552
+Jharkhand,2015,Jowar,67186.6777
+Jharkhand,2016,Jowar,68270.3338
+Jharkhand,2017,Jowar,72063.13012
+Jharkhand,2018,Jowar,67728.50575
+Jharkhand,2019,Jowar,73146.78621
+Karnataka,2010,Jowar,101822.0457
+Karnataka,2011,Jowar,116077.1321
+Karnataka,2012,Jowar,112004.2503
+Karnataka,2013,Jowar,119131.7935
+Karnataka,2014,Jowar,122186.4548
+Karnataka,2015,Jowar,126259.3367
+Karnataka,2016,Jowar,128295.7776
+Karnataka,2017,Jowar,135423.3208
+Karnataka,2018,Jowar,127277.5571
+Karnataka,2019,Jowar,137459.7617
+Kerala,2010,Jowar,44938.7708
+Kerala,2011,Jowar,51230.19871
+Kerala,2012,Jowar,49432.64788
+Kerala,2013,Jowar,52578.36184
+Kerala,2014,Jowar,53926.52496
+Kerala,2015,Jowar,55724.07579
+Kerala,2016,Jowar,56622.85121
+Kerala,2017,Jowar,59768.56516
+Kerala,2018,Jowar,56173.4635
+Kerala,2019,Jowar,60667.34058
+Lakshadweep,2010,Jowar,74.6256
+Lakshadweep,2011,Jowar,85.073184
+Lakshadweep,2012,Jowar,82.08816
+Lakshadweep,2013,Jowar,87.311952
+Lakshadweep,2014,Jowar,89.55072
+Lakshadweep,2015,Jowar,92.535744
+Lakshadweep,2016,Jowar,94.028256
+Lakshadweep,2017,Jowar,99.252048
+Lakshadweep,2018,Jowar,93.282
+Lakshadweep,2019,Jowar,100.74456
+Madhya Pradesh,2010,Jowar,106938.8325
+Madhya Pradesh,2011,Jowar,121910.2691
+Madhya Pradesh,2012,Jowar,117632.7158
+Madhya Pradesh,2013,Jowar,125118.434
+Madhya Pradesh,2014,Jowar,128326.599
+Madhya Pradesh,2015,Jowar,132604.1523
+Madhya Pradesh,2016,Jowar,134742.929
+Madhya Pradesh,2017,Jowar,142228.6472
+Madhya Pradesh,2018,Jowar,133673.5406
+Madhya Pradesh,2019,Jowar,144367.4239
+Maharastra,2010,Jowar,186811.1504
+Maharastra,2011,Jowar,212964.7115
+Maharastra,2012,Jowar,205492.2654
+Maharastra,2013,Jowar,218569.046
+Maharastra,2014,Jowar,224173.3805
+Maharastra,2015,Jowar,231645.8265
+Maharastra,2016,Jowar,235382.0495
+Maharastra,2017,Jowar,248458.83
+Maharastra,2018,Jowar,233513.938
+Maharastra,2019,Jowar,252195.053
+Manipur,2010,Jowar,3024.8376
+Manipur,2011,Jowar,3448.314864
+Manipur,2012,Jowar,3327.32136
+Manipur,2013,Jowar,3539.059992
+Manipur,2014,Jowar,3629.80512
+Manipur,2015,Jowar,3750.798624
+Manipur,2016,Jowar,3811.295376
+Manipur,2017,Jowar,4023.034008
+Manipur,2018,Jowar,3781.047
+Manipur,2019,Jowar,4083.53076
+Meghalaya,2010,Jowar,3540.0084
+Meghalaya,2011,Jowar,4035.609576
+Meghalaya,2012,Jowar,3894.00924
+Meghalaya,2013,Jowar,4141.809828
+Meghalaya,2014,Jowar,4248.01008
+Meghalaya,2015,Jowar,4389.610416
+Meghalaya,2016,Jowar,4460.410584
+Meghalaya,2017,Jowar,4708.211172
+Meghalaya,2018,Jowar,4425.0105
+Meghalaya,2019,Jowar,4779.01134
+Mizoram,2010,Jowar,1306.2168
+Mizoram,2011,Jowar,1489.087152
+Mizoram,2012,Jowar,1436.83848
+Mizoram,2013,Jowar,1528.273656
+Mizoram,2014,Jowar,1567.46016
+Mizoram,2015,Jowar,1619.708832
+Mizoram,2016,Jowar,1645.833168
+Mizoram,2017,Jowar,1737.268344
+Mizoram,2018,Jowar,1632.771
+Mizoram,2019,Jowar,1763.39268
+Nagaland,2010,Jowar,2274.7104
+Nagaland,2011,Jowar,2593.169856
+Nagaland,2012,Jowar,2502.18144
+Nagaland,2013,Jowar,2661.411168
+Nagaland,2014,Jowar,2729.65248
+Nagaland,2015,Jowar,2820.640896
+Nagaland,2016,Jowar,2866.135104
+Nagaland,2017,Jowar,3025.364832
+Nagaland,2018,Jowar,2843.388
+Nagaland,2019,Jowar,3070.85904
+Odisha,2010,Jowar,59985.537
+Odisha,2011,Jowar,68383.51218
+Odisha,2012,Jowar,65984.0907
+Odisha,2013,Jowar,70183.07829
+Odisha,2014,Jowar,71982.6444
+Odisha,2015,Jowar,74382.06588
+Odisha,2016,Jowar,75581.77662
+Odisha,2017,Jowar,79780.76421
+Odisha,2018,Jowar,74981.92125
+Odisha,2019,Jowar,80980.47495
+Puducherry,2010,Jowar,1599.2886
+Puducherry,2011,Jowar,1823.189004
+Puducherry,2012,Jowar,1759.21746
+Puducherry,2013,Jowar,1871.167662
+Puducherry,2014,Jowar,1919.14632
+Puducherry,2015,Jowar,1983.117864
+Puducherry,2016,Jowar,2015.103636
+Puducherry,2017,Jowar,2127.053838
+Puducherry,2018,Jowar,1999.11075
+Puducherry,2019,Jowar,2159.03961
+Punjab,2010,Jowar,38622.0632
+Punjab,2011,Jowar,44029.15205
+Punjab,2012,Jowar,42484.26952
+Punjab,2013,Jowar,45187.81394
+Punjab,2014,Jowar,46346.47584
+Punjab,2015,Jowar,47891.35837
+Punjab,2016,Jowar,48663.79963
+Punjab,2017,Jowar,51367.34406
+Punjab,2018,Jowar,48277.579
+Punjab,2019,Jowar,52139.78532
+Rajasthan,2010,Jowar,104109.6976
+Rajasthan,2011,Jowar,118685.0553
+Rajasthan,2012,Jowar,114520.6674
+Rajasthan,2013,Jowar,121808.3462
+Rajasthan,2014,Jowar,124931.6371
+Rajasthan,2015,Jowar,129096.025
+Rajasthan,2016,Jowar,131178.219
+Rajasthan,2017,Jowar,138465.8978
+Rajasthan,2018,Jowar,130137.122
+Rajasthan,2019,Jowar,140548.0918
+Sikkim,2010,Jowar,717.3108
+Sikkim,2011,Jowar,817.734312
+Sikkim,2012,Jowar,789.04188
+Sikkim,2013,Jowar,839.253636
+Sikkim,2014,Jowar,860.77296
+Sikkim,2015,Jowar,889.465392
+Sikkim,2016,Jowar,903.811608
+Sikkim,2017,Jowar,954.023364
+Sikkim,2018,Jowar,896.6385
+Sikkim,2019,Jowar,968.36958
+Tamil Nadu,2010,Jowar,98671.671
+Tamil Nadu,2011,Jowar,112485.7049
+Tamil Nadu,2012,Jowar,108538.8381
+Tamil Nadu,2013,Jowar,115445.8551
+Tamil Nadu,2014,Jowar,118406.0052
+Tamil Nadu,2015,Jowar,122352.872
+Tamil Nadu,2016,Jowar,124326.3055
+Tamil Nadu,2017,Jowar,131233.3224
+Tamil Nadu,2018,Jowar,123339.5888
+Tamil Nadu,2019,Jowar,133206.7559
+Tripura,2010,Jowar,4001.9832
+Tripura,2011,Jowar,4562.260848
+Tripura,2012,Jowar,4402.18152
+Tripura,2013,Jowar,4682.320344
+Tripura,2014,Jowar,4802.37984
+Tripura,2015,Jowar,4962.459168
+Tripura,2016,Jowar,5042.498832
+Tripura,2017,Jowar,5322.637656
+Tripura,2018,Jowar,5002.479
+Tripura,2019,Jowar,5402.67732
+Uttar Pradesh,2010,Jowar,288885.6315
+Uttar Pradesh,2011,Jowar,329329.6199
+Uttar Pradesh,2012,Jowar,317774.1947
+Uttar Pradesh,2013,Jowar,337996.1889
+Uttar Pradesh,2014,Jowar,346662.7578
+Uttar Pradesh,2015,Jowar,358218.1831
+Uttar Pradesh,2016,Jowar,363995.8957
+Uttar Pradesh,2017,Jowar,384217.8899
+Uttar Pradesh,2018,Jowar,361107.0394
+Uttar Pradesh,2019,Jowar,389995.6025
+Uttarakhand,2010,Jowar,11880.414
+Uttarakhand,2011,Jowar,13543.67196
+Uttarakhand,2012,Jowar,13068.4554
+Uttarakhand,2013,Jowar,13900.08438
+Uttarakhand,2014,Jowar,14256.4968
+Uttarakhand,2015,Jowar,14731.71336
+Uttarakhand,2016,Jowar,14969.32164
+Uttarakhand,2017,Jowar,15800.95062
+Uttarakhand,2018,Jowar,14850.5175
+Uttarakhand,2019,Jowar,16038.5589
+West Bengal,2010,Jowar,116428.0182
+West Bengal,2011,Jowar,132727.9407
+West Bengal,2012,Jowar,128070.82
+West Bengal,2013,Jowar,136220.7813
+West Bengal,2014,Jowar,139713.6218
+West Bengal,2015,Jowar,144370.7426
+West Bengal,2016,Jowar,146699.3029
+West Bengal,2017,Jowar,154849.2642
+West Bengal,2018,Jowar,145535.0228
+West Bengal,2019,Jowar,157177.8246
+Andaman and Nicobar Islands,2010,Onion,3459.0896
+Andaman and Nicobar Islands,2011,Onion,3943.362144
+Andaman and Nicobar Islands,2012,Onion,3804.99856
+Andaman and Nicobar Islands,2013,Onion,4047.134832
+Andaman and Nicobar Islands,2014,Onion,4150.90752
+Andaman and Nicobar Islands,2015,Onion,4289.271104
+Andaman and Nicobar Islands,2016,Onion,4358.452896
+Andaman and Nicobar Islands,2017,Onion,4600.589168
+Andaman and Nicobar Islands,2018,Onion,4323.862
+Andaman and Nicobar Islands,2019,Onion,4669.77096
+Andhra Pradesh,2010,Onion,820430.85
+Andhra Pradesh,2011,Onion,935291.169
+Andhra Pradesh,2012,Onion,902473.935
+Andhra Pradesh,2013,Onion,959904.0945
+Andhra Pradesh,2014,Onion,984517.02
+Andhra Pradesh,2015,Onion,1017334.254
+Andhra Pradesh,2016,Onion,1033742.871
+Andhra Pradesh,2017,Onion,1091173.031
+Andhra Pradesh,2018,Onion,1025538.563
+Andhra Pradesh,2019,Onion,1107581.648
+Arunachal Pradesh,2010,Onion,12333.52
+Arunachal Pradesh,2011,Onion,14060.2128
+Arunachal Pradesh,2012,Onion,13566.872
+Arunachal Pradesh,2013,Onion,14430.2184
+Arunachal Pradesh,2014,Onion,14800.224
+Arunachal Pradesh,2015,Onion,15293.5648
+Arunachal Pradesh,2016,Onion,15540.2352
+Arunachal Pradesh,2017,Onion,16403.5816
+Arunachal Pradesh,2018,Onion,15416.9
+Arunachal Pradesh,2019,Onion,16650.252
+Assam,2010,Onion,293324.6592
+Assam,2011,Onion,334390.1115
+Assam,2012,Onion,322657.1251
+Assam,2013,Onion,343189.8513
+Assam,2014,Onion,351989.591
+Assam,2015,Onion,363722.5774
+Assam,2016,Onion,369589.0706
+Assam,2017,Onion,390121.7967
+Assam,2018,Onion,366655.824
+Assam,2019,Onion,395988.2899
+Bihar,2010,Onion,936601.6484
+Bihar,2011,Onion,1067725.879
+Bihar,2012,Onion,1030261.813
+Bihar,2013,Onion,1095823.929
+Bihar,2014,Onion,1123921.978
+Bihar,2015,Onion,1161386.044
+Bihar,2016,Onion,1180118.077
+Bihar,2017,Onion,1245680.192
+Bihar,2018,Onion,1170752.061
+Bihar,2019,Onion,1264412.225
+Chandigarh,2010,Onion,9315.506
+Chandigarh,2011,Onion,10619.67684
+Chandigarh,2012,Onion,10247.0566
+Chandigarh,2013,Onion,10899.14202
+Chandigarh,2014,Onion,11178.6072
+Chandigarh,2015,Onion,11551.22744
+Chandigarh,2016,Onion,11737.53756
+Chandigarh,2017,Onion,12389.62298
+Chandigarh,2018,Onion,11644.3825
+Chandigarh,2019,Onion,12575.9331
+Chhattisgarh,2010,Onion,214254.9066
+Chhattisgarh,2011,Onion,244250.5935
+Chhattisgarh,2012,Onion,235680.3973
+Chhattisgarh,2013,Onion,250678.2407
+Chhattisgarh,2014,Onion,257105.8879
+Chhattisgarh,2015,Onion,265676.0842
+Chhattisgarh,2016,Onion,269961.1823
+Chhattisgarh,2017,Onion,284959.0258
+Chhattisgarh,2018,Onion,267818.6333
+Chhattisgarh,2019,Onion,289244.1239
+Dadra and Nagar Haveli,2010,Onion,3103.6332
+Dadra and Nagar Haveli,2011,Onion,3538.141848
+Dadra and Nagar Haveli,2012,Onion,3413.99652
+Dadra and Nagar Haveli,2013,Onion,3631.250844
+Dadra and Nagar Haveli,2014,Onion,3724.35984
+Dadra and Nagar Haveli,2015,Onion,3848.505168
+Dadra and Nagar Haveli,2016,Onion,3910.577832
+Dadra and Nagar Haveli,2017,Onion,4127.832156
+Dadra and Nagar Haveli,2018,Onion,3879.5415
+Dadra and Nagar Haveli,2019,Onion,4189.90482
+Daman and Diu,2010,Onion,2168.6424
+Daman and Diu,2011,Onion,2472.252336
+Daman and Diu,2012,Onion,2385.50664
+Daman and Diu,2013,Onion,2537.311608
+Daman and Diu,2014,Onion,2602.37088
+Daman and Diu,2015,Onion,2689.116576
+Daman and Diu,2016,Onion,2732.489424
+Daman and Diu,2017,Onion,2884.294392
+Daman and Diu,2018,Onion,2710.803
+Daman and Diu,2019,Onion,2927.66724
+Delhi,2010,Onion,138299.6676
+Delhi,2011,Onion,157661.6211
+Delhi,2012,Onion,152129.6344
+Delhi,2013,Onion,161810.6111
+Delhi,2014,Onion,165959.6011
+Delhi,2015,Onion,171491.5878
+Delhi,2016,Onion,174257.5812
+Delhi,2017,Onion,183938.5579
+Delhi,2018,Onion,172874.5845
+Delhi,2019,Onion,186704.5513
+Goa,2010,Onion,13789.9776
+Goa,2011,Onion,15720.57446
+Goa,2012,Onion,15168.97536
+Goa,2013,Onion,16134.27379
+Goa,2014,Onion,16547.97312
+Goa,2015,Onion,17099.57222
+Goa,2016,Onion,17375.37178
+Goa,2017,Onion,18340.67021
+Goa,2018,Onion,17237.472
+Goa,2019,Onion,18616.46976
+Gujarat,2010,Onion,568694.966
+Gujarat,2011,Onion,648312.2612
+Gujarat,2012,Onion,625564.4626
+Gujarat,2013,Onion,665373.1102
+Gujarat,2014,Onion,682433.9592
+Gujarat,2015,Onion,705181.7578
+Gujarat,2016,Onion,716555.6572
+Gujarat,2017,Onion,756364.3048
+Gujarat,2018,Onion,710868.7075
+Gujarat,2019,Onion,767738.2041
+Haryana,2010,Onion,203166.0516
+Haryana,2011,Onion,231609.2988
+Haryana,2012,Onion,223482.6568
+Haryana,2013,Onion,237704.2804
+Haryana,2014,Onion,243799.2619
+Haryana,2015,Onion,251925.904
+Haryana,2016,Onion,255989.225
+Haryana,2017,Onion,270210.8486
+Haryana,2018,Onion,253957.5645
+Haryana,2019,Onion,274274.1697
+Himachal Pradesh,2010,Onion,60805.1391
+Himachal Pradesh,2011,Onion,69317.85857
+Himachal Pradesh,2012,Onion,66885.65301
+Himachal Pradesh,2013,Onion,71142.01275
+Himachal Pradesh,2014,Onion,72966.16692
+Himachal Pradesh,2015,Onion,75398.37248
+Himachal Pradesh,2016,Onion,76614.47527
+Himachal Pradesh,2017,Onion,80870.835
+Himachal Pradesh,2018,Onion,76006.42388
+Himachal Pradesh,2019,Onion,82086.93779
+Jammu and Kashmir,2010,Onion,102666.4944
+Jammu and Kashmir,2011,Onion,117039.8036
+Jammu and Kashmir,2012,Onion,112933.1438
+Jammu and Kashmir,2013,Onion,120119.7984
+Jammu and Kashmir,2014,Onion,123199.7933
+Jammu and Kashmir,2015,Onion,127306.4531
+Jammu and Kashmir,2016,Onion,129359.7829
+Jammu and Kashmir,2017,Onion,136546.4376
+Jammu and Kashmir,2018,Onion,128333.118
+Jammu and Kashmir,2019,Onion,138599.7674
+Jharkhand,2010,Onion,299500.0372
+Jharkhand,2011,Onion,341430.0424
+Jharkhand,2012,Onion,329450.0409
+Jharkhand,2013,Onion,350415.0435
+Jharkhand,2014,Onion,359400.0446
+Jharkhand,2015,Onion,371380.0461
+Jharkhand,2016,Onion,377370.0469
+Jharkhand,2017,Onion,398335.0495
+Jharkhand,2018,Onion,374375.0465
+Jharkhand,2019,Onion,404325.0502
+Karnataka,2010,Onion,551036.9532
+Karnataka,2011,Onion,628182.1266
+Karnataka,2012,Onion,606140.6485
+Karnataka,2013,Onion,644713.2352
+Karnataka,2014,Onion,661244.3438
+Karnataka,2015,Onion,683285.822
+Karnataka,2016,Onion,694306.561
+Karnataka,2017,Onion,732879.1478
+Karnataka,2018,Onion,688796.1915
+Karnataka,2019,Onion,743899.8868
+Kerala,2010,Onion,295311.9224
+Kerala,2011,Onion,336655.5915
+Kerala,2012,Onion,324843.1146
+Kerala,2013,Onion,345514.9492
+Kerala,2014,Onion,354374.3069
+Kerala,2015,Onion,366186.7838
+Kerala,2016,Onion,372093.0222
+Kerala,2017,Onion,392764.8568
+Kerala,2018,Onion,369139.903
+Kerala,2019,Onion,398671.0952
+Lakshadweep,2010,Onion,559.692
+Lakshadweep,2011,Onion,638.04888
+Lakshadweep,2012,Onion,615.6612
+Lakshadweep,2013,Onion,654.83964
+Lakshadweep,2014,Onion,671.6304
+Lakshadweep,2015,Onion,694.01808
+Lakshadweep,2016,Onion,705.21192
+Lakshadweep,2017,Onion,744.39036
+Lakshadweep,2018,Onion,699.615
+Lakshadweep,2019,Onion,755.5842
+Madhya Pradesh,2010,Onion,677279.2725
+Madhya Pradesh,2011,Onion,772098.3707
+Madhya Pradesh,2012,Onion,745007.1998
+Madhya Pradesh,2013,Onion,792416.7488
+Madhya Pradesh,2014,Onion,812735.127
+Madhya Pradesh,2015,Onion,839826.2979
+Madhya Pradesh,2016,Onion,853371.8834
+Madhya Pradesh,2017,Onion,900781.4324
+Madhya Pradesh,2018,Onion,846599.0906
+Madhya Pradesh,2019,Onion,914327.0179
+Maharastra,2010,Onion,1043944.664
+Maharastra,2011,Onion,1190096.917
+Maharastra,2012,Onion,1148339.13
+Maharastra,2013,Onion,1221415.257
+Maharastra,2014,Onion,1252733.597
+Maharastra,2015,Onion,1294491.383
+Maharastra,2016,Onion,1315370.277
+Maharastra,2017,Onion,1388446.403
+Maharastra,2018,Onion,1304930.83
+Maharastra,2019,Onion,1409325.296
+Manipur,2010,Onion,23190.4216
+Manipur,2011,Onion,26437.08062
+Manipur,2012,Onion,25509.46376
+Manipur,2013,Onion,27132.79327
+Manipur,2014,Onion,27828.50592
+Manipur,2015,Onion,28756.12278
+Manipur,2016,Onion,29219.93122
+Manipur,2017,Onion,30843.26073
+Manipur,2018,Onion,28988.027
+Manipur,2019,Onion,31307.06916
+Meghalaya,2010,Onion,27140.0644
+Meghalaya,2011,Onion,30939.67342
+Meghalaya,2012,Onion,29854.07084
+Meghalaya,2013,Onion,31753.87535
+Meghalaya,2014,Onion,32568.07728
+Meghalaya,2015,Onion,33653.67986
+Meghalaya,2016,Onion,34196.48114
+Meghalaya,2017,Onion,36096.28565
+Meghalaya,2018,Onion,33925.0805
+Meghalaya,2019,Onion,36639.08694
+Mizoram,2010,Onion,10014.3288
+Mizoram,2011,Onion,11416.33483
+Mizoram,2012,Onion,11015.76168
+Mizoram,2013,Onion,11716.7647
+Mizoram,2014,Onion,12017.19456
+Mizoram,2015,Onion,12417.76771
+Mizoram,2016,Onion,12618.05429
+Mizoram,2017,Onion,13319.0573
+Mizoram,2018,Onion,12517.911
+Mizoram,2019,Onion,13519.34388
+Nagaland,2010,Onion,17439.4464
+Nagaland,2011,Onion,19880.9689
+Nagaland,2012,Onion,19183.39104
+Nagaland,2013,Onion,20404.15229
+Nagaland,2014,Onion,20927.33568
+Nagaland,2015,Onion,21624.91354
+Nagaland,2016,Onion,21973.70246
+Nagaland,2017,Onion,23194.46371
+Nagaland,2018,Onion,21799.308
+Nagaland,2019,Onion,23543.25264
+Odisha,2010,Onion,375909.3652
+Odisha,2011,Onion,428536.6763
+Odisha,2012,Onion,413500.3017
+Odisha,2013,Onion,439813.9573
+Odisha,2014,Onion,451091.2382
+Odisha,2015,Onion,466127.6128
+Odisha,2016,Onion,473645.8002
+Odisha,2017,Onion,499959.4557
+Odisha,2018,Onion,469886.7065
+Odisha,2019,Onion,507477.643
+Puducherry,2010,Onion,11318.0424
+Puducherry,2011,Onion,12902.56834
+Puducherry,2012,Onion,12449.84664
+Puducherry,2013,Onion,13242.10961
+Puducherry,2014,Onion,13581.65088
+Puducherry,2015,Onion,14034.37258
+Puducherry,2016,Onion,14260.73342
+Puducherry,2017,Onion,15052.99639
+Puducherry,2018,Onion,14147.553
+Puducherry,2019,Onion,15279.35724
+Punjab,2010,Onion,256560.8484
+Punjab,2011,Onion,292479.3672
+Punjab,2012,Onion,282216.9332
+Punjab,2013,Onion,300176.1926
+Punjab,2014,Onion,307873.0181
+Punjab,2015,Onion,318135.452
+Punjab,2016,Onion,323266.669
+Punjab,2017,Onion,341225.9284
+Punjab,2018,Onion,320701.0605
+Punjab,2019,Onion,346357.1453
+Rajasthan,2010,Onion,618151.3295
+Rajasthan,2011,Onion,704692.5156
+Rajasthan,2012,Onion,679966.4625
+Rajasthan,2013,Onion,723237.0555
+Rajasthan,2014,Onion,741781.5954
+Rajasthan,2015,Onion,766507.6486
+Rajasthan,2016,Onion,778870.6752
+Rajasthan,2017,Onion,822141.2682
+Rajasthan,2018,Onion,772689.1619
+Rajasthan,2019,Onion,834504.2948
+Sikkim,2010,Onion,5499.3828
+Sikkim,2011,Onion,6269.296392
+Sikkim,2012,Onion,6049.32108
+Sikkim,2013,Onion,6434.277876
+Sikkim,2014,Onion,6599.25936
+Sikkim,2015,Onion,6819.234672
+Sikkim,2016,Onion,6929.222328
+Sikkim,2017,Onion,7314.179124
+Sikkim,2018,Onion,6874.2285
+Sikkim,2019,Onion,7424.16678
+Tamil Nadu,2010,Onion,662509.791
+Tamil Nadu,2011,Onion,755261.1617
+Tamil Nadu,2012,Onion,728760.7701
+Tamil Nadu,2013,Onion,775136.4555
+Tamil Nadu,2014,Onion,795011.7492
+Tamil Nadu,2015,Onion,821512.1408
+Tamil Nadu,2016,Onion,834762.3367
+Tamil Nadu,2017,Onion,881138.022
+Tamil Nadu,2018,Onion,828137.2388
+Tamil Nadu,2019,Onion,894388.2179
+Tripura,2010,Onion,30681.8712
+Tripura,2011,Onion,34977.33317
+Tripura,2012,Onion,33750.05832
+Tripura,2013,Onion,35897.7893
+Tripura,2014,Onion,36818.24544
+Tripura,2015,Onion,38045.52029
+Tripura,2016,Onion,38659.15771
+Tripura,2017,Onion,40806.8887
+Tripura,2018,Onion,38352.339
+Tripura,2019,Onion,41420.52612
+Uttar Pradesh,2010,Onion,1829609
+Uttar Pradesh,2011,Onion,2085754.259
+Uttar Pradesh,2012,Onion,2012569.899
+Uttar Pradesh,2013,Onion,2140642.529
+Uttar Pradesh,2014,Onion,2195530.799
+Uttar Pradesh,2015,Onion,2268715.159
+Uttar Pradesh,2016,Onion,2305307.339
+Uttar Pradesh,2017,Onion,2433379.969
+Uttar Pradesh,2018,Onion,2287011.249
+Uttar Pradesh,2019,Onion,2469972.149
+Uttarakhand,2010,Onion,92073.2085
+Uttarakhand,2011,Onion,104963.4577
+Uttarakhand,2012,Onion,101280.5294
+Uttarakhand,2013,Onion,107725.6539
+Uttarakhand,2014,Onion,110487.8502
+Uttarakhand,2015,Onion,114170.7785
+Uttarakhand,2016,Onion,116012.2427
+Uttarakhand,2017,Onion,122457.3673
+Uttarakhand,2018,Onion,115091.5106
+Uttarakhand,2019,Onion,124298.8315
+West Bengal,2010,Onion,841864.1316
+West Bengal,2011,Onion,959725.11
+West Bengal,2012,Onion,926050.5448
+West Bengal,2013,Onion,984981.034
+West Bengal,2014,Onion,1010236.958
+West Bengal,2015,Onion,1043911.523
+West Bengal,2016,Onion,1060748.806
+West Bengal,2017,Onion,1119679.295
+West Bengal,2018,Onion,1052330.165
+West Bengal,2019,Onion,1136516.578
+Andaman and Nicobar Islands,2010,Potato,9587.694
+Andaman and Nicobar Islands,2011,Potato,10929.97116
+Andaman and Nicobar Islands,2012,Potato,10546.4634
+Andaman and Nicobar Islands,2013,Potato,11217.60198
+Andaman and Nicobar Islands,2014,Potato,11505.2328
+Andaman and Nicobar Islands,2015,Potato,11888.74056
+Andaman and Nicobar Islands,2016,Potato,12080.49444
+Andaman and Nicobar Islands,2017,Potato,12751.63302
+Andaman and Nicobar Islands,2018,Potato,11984.6175
+Andaman and Nicobar Islands,2019,Potato,12943.3869
+Andhra Pradesh,2010,Potato,2165260.8
+Andhra Pradesh,2011,Potato,2468397.312
+Andhra Pradesh,2012,Potato,2381786.88
+Andhra Pradesh,2013,Potato,2533355.136
+Andhra Pradesh,2014,Potato,2598312.96
+Andhra Pradesh,2015,Potato,2684923.392
+Andhra Pradesh,2016,Potato,2728228.608
+Andhra Pradesh,2017,Potato,2879796.864
+Andhra Pradesh,2018,Potato,2706576
+Andhra Pradesh,2019,Potato,2923102.08
+Arunachal Pradesh,2010,Potato,33246.88
+Arunachal Pradesh,2011,Potato,37901.4432
+Arunachal Pradesh,2012,Potato,36571.568
+Arunachal Pradesh,2013,Potato,38898.8496
+Arunachal Pradesh,2014,Potato,39896.256
+Arunachal Pradesh,2015,Potato,41226.1312
+Arunachal Pradesh,2016,Potato,41891.0688
+Arunachal Pradesh,2017,Potato,44218.3504
+Arunachal Pradesh,2018,Potato,41558.6
+Arunachal Pradesh,2019,Potato,44883.288
+Assam,2010,Potato,782199.0912
+Assam,2011,Potato,891706.964
+Assam,2012,Potato,860419.0003
+Assam,2013,Potato,915172.9367
+Assam,2014,Potato,938638.9094
+Assam,2015,Potato,969926.8731
+Assam,2016,Potato,985570.8549
+Assam,2017,Potato,1040324.791
+Assam,2018,Potato,977748.864
+Assam,2019,Potato,1055968.773
+Bihar,2010,Potato,2545113.175
+Bihar,2011,Potato,2901429.02
+Bihar,2012,Potato,2799624.493
+Bihar,2013,Potato,2977782.415
+Bihar,2014,Potato,3054135.81
+Bihar,2015,Potato,3155940.337
+Bihar,2016,Potato,3206842.601
+Bihar,2017,Potato,3385000.523
+Bihar,2018,Potato,3181391.469
+Bihar,2019,Potato,3435902.786
+Chandigarh,2010,Potato,25820.1525
+Chandigarh,2011,Potato,29434.97385
+Chandigarh,2012,Potato,28402.16775
+Chandigarh,2013,Potato,30209.57843
+Chandigarh,2014,Potato,30984.183
+Chandigarh,2015,Potato,32016.9891
+Chandigarh,2016,Potato,32533.39215
+Chandigarh,2017,Potato,34340.80283
+Chandigarh,2018,Potato,32275.19063
+Chandigarh,2019,Potato,34857.20588
+Chhattisgarh,2010,Potato,589776.9472
+Chhattisgarh,2011,Potato,672345.7198
+Chhattisgarh,2012,Potato,648754.6419
+Chhattisgarh,2013,Potato,690039.0282
+Chhattisgarh,2014,Potato,707732.3366
+Chhattisgarh,2015,Potato,731323.4145
+Chhattisgarh,2016,Potato,743118.9535
+Chhattisgarh,2017,Potato,784403.3398
+Chhattisgarh,2018,Potato,737221.184
+Chhattisgarh,2019,Potato,796198.8787
+Dadra and Nagar Haveli,2010,Potato,8509962
+Dadra and Nagar Haveli,2011,Potato,9701356.68
+Dadra and Nagar Haveli,2012,Potato,9360958.2
+Dadra and Nagar Haveli,2013,Potato,9956655.54
+Dadra and Nagar Haveli,2014,Potato,10211954.4
+Dadra and Nagar Haveli,2015,Potato,10552352.88
+Dadra and Nagar Haveli,2016,Potato,10722552.12
+Dadra and Nagar Haveli,2017,Potato,11318249.46
+Dadra and Nagar Haveli,2018,Potato,10637452.5
+Dadra and Nagar Haveli,2019,Potato,11488448.7
+Daman and Diu,2010,Potato,6010.911
+Daman and Diu,2011,Potato,6852.43854
+Daman and Diu,2012,Potato,6612.0021
+Daman and Diu,2013,Potato,7032.76587
+Daman and Diu,2014,Potato,7213.0932
+Daman and Diu,2015,Potato,7453.52964
+Daman and Diu,2016,Potato,7573.74786
+Daman and Diu,2017,Potato,7994.51163
+Daman and Diu,2018,Potato,7513.63875
+Daman and Diu,2019,Potato,8114.72985
+Delhi,2010,Potato,379208.766
+Delhi,2011,Potato,432297.9932
+Delhi,2012,Potato,417129.6426
+Delhi,2013,Potato,443674.2562
+Delhi,2014,Potato,455050.5192
+Delhi,2015,Potato,470218.8698
+Delhi,2016,Potato,477803.0452
+Delhi,2017,Potato,504347.6588
+Delhi,2018,Potato,474010.9575
+Delhi,2019,Potato,511931.8341
+Goa,2010,Potato,36629.628
+Goa,2011,Potato,41757.77592
+Goa,2012,Potato,40292.5908
+Goa,2013,Potato,42856.66476
+Goa,2014,Potato,43955.5536
+Goa,2015,Potato,45420.73872
+Goa,2016,Potato,46153.33128
+Goa,2017,Potato,48717.40524
+Goa,2018,Potato,45787.035
+Goa,2019,Potato,49449.9978
+Gujarat,2010,Potato,1538469.54
+Gujarat,2011,Potato,1753855.275
+Gujarat,2012,Potato,1692316.494
+Gujarat,2013,Potato,1800009.361
+Gujarat,2014,Potato,1846163.448
+Gujarat,2015,Potato,1907702.229
+Gujarat,2016,Potato,1938471.62
+Gujarat,2017,Potato,2046164.488
+Gujarat,2018,Potato,1923086.925
+Gujarat,2019,Potato,2076933.878
+Haryana,2010,Potato,567991.112
+Haryana,2011,Potato,647509.8677
+Haryana,2012,Potato,624790.2232
+Haryana,2013,Potato,664549.601
+Haryana,2014,Potato,681589.3344
+Haryana,2015,Potato,704308.9789
+Haryana,2016,Potato,715668.8011
+Haryana,2017,Potato,755428.179
+Haryana,2018,Potato,709988.89
+Haryana,2019,Potato,766788.0012
+Himachal Pradesh,2010,Potato,173261.9555
+Himachal Pradesh,2011,Potato,197518.6293
+Himachal Pradesh,2012,Potato,190588.1511
+Himachal Pradesh,2013,Potato,202716.4879
+Himachal Pradesh,2014,Potato,207914.3466
+Himachal Pradesh,2015,Potato,214844.8248
+Himachal Pradesh,2016,Potato,218310.0639
+Himachal Pradesh,2017,Potato,230438.4008
+Himachal Pradesh,2018,Potato,216577.4444
+Himachal Pradesh,2019,Potato,233903.6399
+Jammu and Kashmir,2010,Potato,289232.4896
+Jammu and Kashmir,2011,Potato,329725.0381
+Jammu and Kashmir,2012,Potato,318155.7386
+Jammu and Kashmir,2013,Potato,338402.0128
+Jammu and Kashmir,2014,Potato,347078.9875
+Jammu and Kashmir,2015,Potato,358648.2871
+Jammu and Kashmir,2016,Potato,364432.9369
+Jammu and Kashmir,2017,Potato,384679.2112
+Jammu and Kashmir,2018,Potato,361540.612
+Jammu and Kashmir,2019,Potato,390463.861
+Jharkhand,2010,Potato,793618.7262
+Jharkhand,2011,Potato,904725.3479
+Jharkhand,2012,Potato,872980.5988
+Jharkhand,2013,Potato,928533.9097
+Jharkhand,2014,Potato,952342.4714
+Jharkhand,2015,Potato,984087.2205
+Jharkhand,2016,Potato,999959.595
+Jharkhand,2017,Potato,1055512.906
+Jharkhand,2018,Potato,992023.4078
+Jharkhand,2019,Potato,1071385.28
+Karnataka,2010,Potato,1527330.686
+Karnataka,2011,Potato,1741156.981
+Karnataka,2012,Potato,1680063.754
+Karnataka,2013,Potato,1786976.902
+Karnataka,2014,Potato,1832796.823
+Karnataka,2015,Potato,1893890.05
+Karnataka,2016,Potato,1924436.664
+Karnataka,2017,Potato,2031349.812
+Karnataka,2018,Potato,1909163.357
+Karnataka,2019,Potato,2061896.425
+Kerala,2010,Potato,789638.4012
+Kerala,2011,Potato,900187.7774
+Kerala,2012,Potato,868602.2413
+Kerala,2013,Potato,923876.9294
+Kerala,2014,Potato,947566.0814
+Kerala,2015,Potato,979151.6175
+Kerala,2016,Potato,994944.3855
+Kerala,2017,Potato,1050219.074
+Kerala,2018,Potato,987048.0015
+Kerala,2019,Potato,1066011.842
+Lakshadweep,2010,Potato,1585.794
+Lakshadweep,2011,Potato,1807.80516
+Lakshadweep,2012,Potato,1744.3734
+Lakshadweep,2013,Potato,1855.37898
+Lakshadweep,2014,Potato,1902.9528
+Lakshadweep,2015,Potato,1966.38456
+Lakshadweep,2016,Potato,1998.10044
+Lakshadweep,2017,Potato,2109.10602
+Lakshadweep,2018,Potato,1982.2425
+Lakshadweep,2019,Potato,2140.8219
+Madhya Pradesh,2010,Potato,1817960.153
+Madhya Pradesh,2011,Potato,2072474.574
+Madhya Pradesh,2012,Potato,1999756.168
+Madhya Pradesh,2013,Potato,2127013.378
+Madhya Pradesh,2014,Potato,2181552.183
+Madhya Pradesh,2015,Potato,2254270.589
+Madhya Pradesh,2016,Potato,2290629.792
+Madhya Pradesh,2017,Potato,2417887.003
+Madhya Pradesh,2018,Potato,2272450.191
+Madhya Pradesh,2019,Potato,2454246.206
+Maharastra,2010,Potato,2802167.256
+Maharastra,2011,Potato,3194470.672
+Maharastra,2012,Potato,3082383.982
+Maharastra,2013,Potato,3278535.69
+Maharastra,2014,Potato,3362600.707
+Maharastra,2015,Potato,3474687.397
+Maharastra,2016,Potato,3530730.743
+Maharastra,2017,Potato,3726882.45
+Maharastra,2018,Potato,3502709.07
+Maharastra,2019,Potato,3782925.796
+Manipur,2010,Potato,66042.2876
+Manipur,2011,Potato,75288.20786
+Manipur,2012,Potato,72646.51636
+Manipur,2013,Potato,77269.47649
+Manipur,2014,Potato,79250.74512
+Manipur,2015,Potato,81892.43662
+Manipur,2016,Potato,83213.28238
+Manipur,2017,Potato,87836.24251
+Manipur,2018,Potato,82552.8595
+Manipur,2019,Potato,89157.08826
+Meghalaya,2010,Potato,76995.1827
+Meghalaya,2011,Potato,87774.50828
+Meghalaya,2012,Potato,84694.70097
+Meghalaya,2013,Potato,90084.36376
+Meghalaya,2014,Potato,92394.21924
+Meghalaya,2015,Potato,95474.02655
+Meghalaya,2016,Potato,97013.9302
+Meghalaya,2017,Potato,102403.593
+Meghalaya,2018,Potato,96243.97838
+Meghalaya,2019,Potato,103943.4966
+Mizoram,2010,Potato,28192.5126
+Mizoram,2011,Potato,32139.46436
+Mizoram,2012,Potato,31011.76386
+Mizoram,2013,Potato,32985.23974
+Mizoram,2014,Potato,33831.01512
+Mizoram,2015,Potato,34958.71562
+Mizoram,2016,Potato,35522.56588
+Mizoram,2017,Potato,37496.04176
+Mizoram,2018,Potato,35240.64075
+Mizoram,2019,Potato,38059.89201
+Nagaland,2010,Potato,48716.7144
+Nagaland,2011,Potato,55537.05442
+Nagaland,2012,Potato,53588.38584
+Nagaland,2013,Potato,56998.55585
+Nagaland,2014,Potato,58460.05728
+Nagaland,2015,Potato,60408.72586
+Nagaland,2016,Potato,61383.06014
+Nagaland,2017,Potato,64793.23015
+Nagaland,2018,Potato,60895.893
+Nagaland,2019,Potato,65767.56444
+Odisha,2010,Potato,1019754.129
+Odisha,2011,Potato,1162519.707
+Odisha,2012,Potato,1121729.542
+Odisha,2013,Potato,1193112.331
+Odisha,2014,Potato,1223704.955
+Odisha,2015,Potato,1264495.12
+Odisha,2016,Potato,1284890.203
+Odisha,2017,Potato,1356272.992
+Odisha,2018,Potato,1274692.661
+Odisha,2019,Potato,1376668.074
+Puducherry,2010,Potato,31370.661
+Puducherry,2011,Potato,35762.55354
+Puducherry,2012,Potato,34507.7271
+Puducherry,2013,Potato,36703.67337
+Puducherry,2014,Potato,37644.7932
+Puducherry,2015,Potato,38899.61964
+Puducherry,2016,Potato,39527.03286
+Puducherry,2017,Potato,41722.97913
+Puducherry,2018,Potato,39213.32625
+Puducherry,2019,Potato,42350.39235
+Punjab,2010,Potato,722784.3256
+Punjab,2011,Potato,823974.1312
+Punjab,2012,Potato,795062.7582
+Punjab,2013,Potato,845657.661
+Punjab,2014,Potato,867341.1907
+Punjab,2015,Potato,896252.5637
+Punjab,2016,Potato,910708.2503
+Punjab,2017,Potato,961303.153
+Punjab,2018,Potato,903480.407
+Punjab,2019,Potato,975758.8396
+Rajasthan,2010,Potato,1659248.306
+Rajasthan,2011,Potato,1891543.068
+Rajasthan,2012,Potato,1825173.136
+Rajasthan,2013,Potato,1941320.517
+Rajasthan,2014,Potato,1991097.967
+Rajasthan,2015,Potato,2057467.899
+Rajasthan,2016,Potato,2090652.865
+Rajasthan,2017,Potato,2206800.246
+Rajasthan,2018,Potato,2074060.382
+Rajasthan,2019,Potato,2239985.212
+Sikkim,2010,Potato,15302.6304
+Sikkim,2011,Potato,17444.99866
+Sikkim,2012,Potato,16832.89344
+Sikkim,2013,Potato,17904.07757
+Sikkim,2014,Potato,18363.15648
+Sikkim,2015,Potato,18975.2617
+Sikkim,2016,Potato,19281.3143
+Sikkim,2017,Potato,20352.49843
+Sikkim,2018,Potato,19128.288
+Sikkim,2019,Potato,20658.55104
+Tamil Nadu,2010,Potato,1797234.008
+Tamil Nadu,2011,Potato,2048846.769
+Tamil Nadu,2012,Potato,1976957.408
+Tamil Nadu,2013,Potato,2102763.789
+Tamil Nadu,2014,Potato,2156680.809
+Tamil Nadu,2015,Potato,2228570.169
+Tamil Nadu,2016,Potato,2264514.849
+Tamil Nadu,2017,Potato,2390321.23
+Tamil Nadu,2018,Potato,2246542.509
+Tamil Nadu,2019,Potato,2426265.91
+Tripura,2010,Potato,85375.6416
+Tripura,2011,Potato,97328.23142
+Tripura,2012,Potato,93913.20576
+Tripura,2013,Potato,99889.50067
+Tripura,2014,Potato,102450.7699
+Tripura,2015,Potato,105865.7956
+Tripura,2016,Potato,107573.3084
+Tripura,2017,Potato,113549.6033
+Tripura,2018,Potato,106719.552
+Tripura,2019,Potato,115257.1162
+Uttar Pradesh,2010,Potato,5007350.946
+Uttar Pradesh,2011,Potato,5708380.078
+Uttar Pradesh,2012,Potato,5508086.041
+Uttar Pradesh,2013,Potato,5858600.607
+Uttar Pradesh,2014,Potato,6008821.135
+Uttar Pradesh,2015,Potato,6209115.173
+Uttar Pradesh,2016,Potato,6309262.192
+Uttar Pradesh,2017,Potato,6659776.758
+Uttar Pradesh,2018,Potato,6259188.683
+Uttar Pradesh,2019,Potato,6759923.777
+Uttarakhand,2010,Potato,258399.0045
+Uttarakhand,2011,Potato,294574.8651
+Uttarakhand,2012,Potato,284238.905
+Uttarakhand,2013,Potato,302326.8353
+Uttarakhand,2014,Potato,310078.8054
+Uttarakhand,2015,Potato,320414.7656
+Uttarakhand,2016,Potato,325582.7457
+Uttarakhand,2017,Potato,343670.676
+Uttarakhand,2018,Potato,322998.7556
+Uttarakhand,2019,Potato,348838.6561
+West Bengal,2010,Potato,2301692.36
+West Bengal,2011,Potato,2623929.29
+West Bengal,2012,Potato,2531861.596
+West Bengal,2013,Potato,2692980.061
+West Bengal,2014,Potato,2762030.832
+West Bengal,2015,Potato,2854098.526
+West Bengal,2016,Potato,2900132.373
+West Bengal,2017,Potato,3061250.839
+West Bengal,2018,Potato,2877115.45
+West Bengal,2019,Potato,3107284.686
+Andaman and Nicobar Islands,2010,Rice,23840
+Andaman and Nicobar Islands,2011,Rice,27177.6
+Andaman and Nicobar Islands,2012,Rice,26224
+Andaman and Nicobar Islands,2013,Rice,27892.8
+Andaman and Nicobar Islands,2014,Rice,28608
+Andaman and Nicobar Islands,2015,Rice,29561.6
+Andaman and Nicobar Islands,2016,Rice,30038.4
+Andaman and Nicobar Islands,2017,Rice,31707.2
+Andaman and Nicobar Islands,2018,Rice,29800
+Andaman and Nicobar Islands,2019,Rice,32184
+Andhra Pradesh,2010,Rice,7250550
+Andhra Pradesh,2011,Rice,8265627
+Andhra Pradesh,2012,Rice,7975605
+Andhra Pradesh,2013,Rice,8483143.5
+Andhra Pradesh,2014,Rice,8700660
+Andhra Pradesh,2015,Rice,8990682
+Andhra Pradesh,2016,Rice,9135693
+Andhra Pradesh,2017,Rice,9643231.5
+Andhra Pradesh,2018,Rice,9063187.5
+Andhra Pradesh,2019,Rice,9788242.5
+Arunachal Pradesh,2010,Rice,185565
+Arunachal Pradesh,2011,Rice,211544.1
+Arunachal Pradesh,2012,Rice,204121.5
+Arunachal Pradesh,2013,Rice,217111.05
+Arunachal Pradesh,2014,Rice,222678
+Arunachal Pradesh,2015,Rice,230100.6
+Arunachal Pradesh,2016,Rice,233811.9
+Arunachal Pradesh,2017,Rice,246801.45
+Arunachal Pradesh,2018,Rice,231956.25
+Arunachal Pradesh,2019,Rice,250512.75
+Assam,2010,Rice,6532654
+Assam,2011,Rice,7447225.56
+Assam,2012,Rice,7185919.4
+Assam,2013,Rice,7643205.18
+Assam,2014,Rice,7839184.8
+Assam,2015,Rice,8100490.96
+Assam,2016,Rice,8231144.04
+Assam,2017,Rice,8688429.82
+Assam,2018,Rice,8165817.5
+Assam,2019,Rice,8819082.9
+Bihar,2010,Rice,5025618
+Bihar,2011,Rice,5729204.52
+Bihar,2012,Rice,5528179.8
+Bihar,2013,Rice,5879973.06
+Bihar,2014,Rice,6030741.6
+Bihar,2015,Rice,6231766.32
+Bihar,2016,Rice,6332278.68
+Bihar,2017,Rice,6684071.94
+Bihar,2018,Rice,6282022.5
+Bihar,2019,Rice,6784584.3
+Chandigarh,2010,Rice,2056125
+Chandigarh,2011,Rice,2343982.5
+Chandigarh,2012,Rice,2261737.5
+Chandigarh,2013,Rice,2405666.25
+Chandigarh,2014,Rice,2467350
+Chandigarh,2015,Rice,2549595
+Chandigarh,2016,Rice,2590717.5
+Chandigarh,2017,Rice,2734646.25
+Chandigarh,2018,Rice,2570156.25
+Chandigarh,2019,Rice,2775768.75
+Chhattisgarh,2010,Rice,5072062
+Chhattisgarh,2011,Rice,5782150.68
+Chhattisgarh,2012,Rice,5579268.2
+Chhattisgarh,2013,Rice,5934312.54
+Chhattisgarh,2014,Rice,6086474.4
+Chhattisgarh,2015,Rice,6289356.88
+Chhattisgarh,2016,Rice,6390798.12
+Chhattisgarh,2017,Rice,6745842.46
+Chhattisgarh,2018,Rice,6340077.5
+Chhattisgarh,2019,Rice,6847283.7
+Dadra and Nagar Haveli,2010,Rice,80234
+Dadra and Nagar Haveli,2011,Rice,91466.76
+Dadra and Nagar Haveli,2012,Rice,88257.4
+Dadra and Nagar Haveli,2013,Rice,93873.78
+Dadra and Nagar Haveli,2014,Rice,96280.8
+Dadra and Nagar Haveli,2015,Rice,99490.16
+Dadra and Nagar Haveli,2016,Rice,101094.84
+Dadra and Nagar Haveli,2017,Rice,106711.22
+Dadra and Nagar Haveli,2018,Rice,100292.5
+Dadra and Nagar Haveli,2019,Rice,108315.9
+Daman and Diu,2010,Rice,545990
+Daman and Diu,2011,Rice,622428.6
+Daman and Diu,2012,Rice,600589
+Daman and Diu,2013,Rice,638808.3
+Daman and Diu,2014,Rice,655188
+Daman and Diu,2015,Rice,677027.6
+Daman and Diu,2016,Rice,687947.4
+Daman and Diu,2017,Rice,726166.7
+Daman and Diu,2018,Rice,682487.5
+Daman and Diu,2019,Rice,737086.5
+Delhi,2010,Rice,5025678
+Delhi,2011,Rice,5729272.92
+Delhi,2012,Rice,5528245.8
+Delhi,2013,Rice,5880043.26
+Delhi,2014,Rice,6030813.6
+Delhi,2015,Rice,6231840.72
+Delhi,2016,Rice,6332354.28
+Delhi,2017,Rice,6684151.74
+Delhi,2018,Rice,6282097.5
+Delhi,2019,Rice,6784665.3
+Goa,2010,Rice,224499
+Goa,2011,Rice,255928.86
+Goa,2012,Rice,246948.9
+Goa,2013,Rice,262663.83
+Goa,2014,Rice,269398.8
+Goa,2015,Rice,278378.76
+Goa,2016,Rice,282868.74
+Goa,2017,Rice,298583.67
+Goa,2018,Rice,280623.75
+Goa,2019,Rice,303073.65
+Gujarat,2010,Rice,2082300
+Gujarat,2011,Rice,2373822
+Gujarat,2012,Rice,2290530
+Gujarat,2013,Rice,2436291
+Gujarat,2014,Rice,2498760
+Gujarat,2015,Rice,2582052
+Gujarat,2016,Rice,2623698
+Gujarat,2017,Rice,2769459
+Gujarat,2018,Rice,2602875
+Gujarat,2019,Rice,2811105
+Haryana,2010,Rice,2578343
+Haryana,2011,Rice,2939311.02
+Haryana,2012,Rice,2836177.3
+Haryana,2013,Rice,3016661.31
+Haryana,2014,Rice,3094011.6
+Haryana,2015,Rice,3197145.32
+Haryana,2016,Rice,3248712.18
+Haryana,2017,Rice,3429196.19
+Haryana,2018,Rice,3222928.75
+Haryana,2019,Rice,3480763.05
+Himachal Pradesh,2010,Rice,129000
+Himachal Pradesh,2011,Rice,147060
+Himachal Pradesh,2012,Rice,141900
+Himachal Pradesh,2013,Rice,150930
+Himachal Pradesh,2014,Rice,154800
+Himachal Pradesh,2015,Rice,159960
+Himachal Pradesh,2016,Rice,162540
+Himachal Pradesh,2017,Rice,171570
+Himachal Pradesh,2018,Rice,161250
+Himachal Pradesh,2019,Rice,174150
+Jammu and Kashmir,2010,Rice,581300
+Jammu and Kashmir,2011,Rice,662682
+Jammu and Kashmir,2012,Rice,639430
+Jammu and Kashmir,2013,Rice,680121
+Jammu and Kashmir,2014,Rice,697560
+Jammu and Kashmir,2015,Rice,720812
+Jammu and Kashmir,2016,Rice,732438
+Jammu and Kashmir,2017,Rice,773129
+Jammu and Kashmir,2018,Rice,726625
+Jammu and Kashmir,2019,Rice,784755
+Jharkhand,2010,Rice,2080994
+Jharkhand,2011,Rice,2372333.16
+Jharkhand,2012,Rice,2289093.4
+Jharkhand,2013,Rice,2434762.98
+Jharkhand,2014,Rice,2497192.8
+Jharkhand,2015,Rice,2580432.56
+Jharkhand,2016,Rice,2622052.44
+Jharkhand,2017,Rice,2767722.02
+Jharkhand,2018,Rice,2601242.5
+Jharkhand,2019,Rice,2809341.9
+Karnataka,2010,Rice,3278972
+Karnataka,2011,Rice,3738028.08
+Karnataka,2012,Rice,3606869.2
+Karnataka,2013,Rice,3836397.24
+Karnataka,2014,Rice,3934766.4
+Karnataka,2015,Rice,4065925.28
+Karnataka,2016,Rice,4131504.72
+Karnataka,2017,Rice,4361032.76
+Karnataka,2018,Rice,4098715
+Karnataka,2019,Rice,4426612.2
+Kerala,2010,Rice,522131
+Kerala,2011,Rice,595229.34
+Kerala,2012,Rice,574344.1
+Kerala,2013,Rice,610893.27
+Kerala,2014,Rice,626557.2
+Kerala,2015,Rice,647442.44
+Kerala,2016,Rice,657885.06
+Kerala,2017,Rice,694434.23
+Kerala,2018,Rice,652663.75
+Kerala,2019,Rice,704876.85
+Lakshadweep,2010,Rice,18566
+Lakshadweep,2011,Rice,21165.24
+Lakshadweep,2012,Rice,20422.6
+Lakshadweep,2013,Rice,21722.22
+Lakshadweep,2014,Rice,22279.2
+Lakshadweep,2015,Rice,23021.84
+Lakshadweep,2016,Rice,23393.16
+Lakshadweep,2017,Rice,24692.78
+Lakshadweep,2018,Rice,23207.5
+Lakshadweep,2019,Rice,25064.1
+Madhya Pradesh,2010,Rice,3087771
+Madhya Pradesh,2011,Rice,3520058.94
+Madhya Pradesh,2012,Rice,3396548.1
+Madhya Pradesh,2013,Rice,3612692.07
+Madhya Pradesh,2014,Rice,3705325.2
+Madhya Pradesh,2015,Rice,3828836.04
+Madhya Pradesh,2016,Rice,3890591.46
+Madhya Pradesh,2017,Rice,4106735.43
+Madhya Pradesh,2018,Rice,3859713.75
+Madhya Pradesh,2019,Rice,4168490.85
+Maharastra,2010,Rice,3543021
+Maharastra,2011,Rice,4039043.94
+Maharastra,2012,Rice,3897323.1
+Maharastra,2013,Rice,4145334.57
+Maharastra,2014,Rice,4251625.2
+Maharastra,2015,Rice,4393346.04
+Maharastra,2016,Rice,4464206.46
+Maharastra,2017,Rice,4712217.93
+Maharastra,2018,Rice,4428776.25
+Maharastra,2019,Rice,4783078.35
+Manipur,2010,Rice,406148
+Manipur,2011,Rice,463008.72
+Manipur,2012,Rice,446762.8
+Manipur,2013,Rice,475193.16
+Manipur,2014,Rice,487377.6
+Manipur,2015,Rice,503623.52
+Manipur,2016,Rice,511746.48
+Manipur,2017,Rice,540176.84
+Manipur,2018,Rice,507685
+Manipur,2019,Rice,548299.8
+Meghalaya,2010,Rice,207035
+Meghalaya,2011,Rice,236019.9
+Meghalaya,2012,Rice,227738.5
+Meghalaya,2013,Rice,242230.95
+Meghalaya,2014,Rice,248442
+Meghalaya,2015,Rice,256723.4
+Meghalaya,2016,Rice,260864.1
+Meghalaya,2017,Rice,275356.55
+Meghalaya,2018,Rice,258793.75
+Meghalaya,2019,Rice,279497.25
+Mizoram,2010,Rice,66130
+Mizoram,2011,Rice,75388.2
+Mizoram,2012,Rice,72743
+Mizoram,2013,Rice,77372.1
+Mizoram,2014,Rice,79356
+Mizoram,2015,Rice,82001.2
+Mizoram,2016,Rice,83323.8
+Mizoram,2017,Rice,87952.9
+Mizoram,2018,Rice,82662.5
+Mizoram,2019,Rice,89275.5
+Nagaland,2010,Rice,380560
+Nagaland,2011,Rice,433838.4
+Nagaland,2012,Rice,418616
+Nagaland,2013,Rice,445255.2
+Nagaland,2014,Rice,456672
+Nagaland,2015,Rice,471894.4
+Nagaland,2016,Rice,479505.6
+Nagaland,2017,Rice,506144.8
+Nagaland,2018,Rice,475700
+Nagaland,2019,Rice,513756
+Odisha,2010,Rice,7056789
+Odisha,2011,Rice,8044739.46
+Odisha,2012,Rice,7762467.9
+Odisha,2013,Rice,8256443.13
+Odisha,2014,Rice,8468146.8
+Odisha,2015,Rice,8750418.36
+Odisha,2016,Rice,8891554.14
+Odisha,2017,Rice,9385529.37
+Odisha,2018,Rice,8820986.25
+Odisha,2019,Rice,9526665.15
+Puducherry,2010,Rice,51890
+Puducherry,2011,Rice,59154.6
+Puducherry,2012,Rice,57079
+Puducherry,2013,Rice,60711.3
+Puducherry,2014,Rice,62268
+Puducherry,2015,Rice,64343.6
+Puducherry,2016,Rice,65381.4
+Puducherry,2017,Rice,69013.7
+Puducherry,2018,Rice,64862.5
+Puducherry,2019,Rice,70051.5
+Punjab,2010,Rice,8092154
+Punjab,2011,Rice,9225055.56
+Punjab,2012,Rice,8901369.4
+Punjab,2013,Rice,9467820.18
+Punjab,2014,Rice,9710584.8
+Punjab,2015,Rice,10034270.96
+Punjab,2016,Rice,10196114.04
+Punjab,2017,Rice,10762564.82
+Punjab,2018,Rice,10115192.5
+Punjab,2019,Rice,10924407.9
+Rajasthan,2010,Rice,256490
+Rajasthan,2011,Rice,292398.6
+Rajasthan,2012,Rice,282139
+Rajasthan,2013,Rice,300093.3
+Rajasthan,2014,Rice,307788
+Rajasthan,2015,Rice,318047.6
+Rajasthan,2016,Rice,323177.4
+Rajasthan,2017,Rice,341131.7
+Rajasthan,2018,Rice,320612.5
+Rajasthan,2019,Rice,346261.5
+Sikkim,2010,Rice,20974
+Sikkim,2011,Rice,23910.36
+Sikkim,2012,Rice,23071.4
+Sikkim,2013,Rice,24539.58
+Sikkim,2014,Rice,25168.8
+Sikkim,2015,Rice,26007.76
+Sikkim,2016,Rice,26427.24
+Sikkim,2017,Rice,27895.42
+Sikkim,2018,Rice,26217.5
+Sikkim,2019,Rice,28314.9
+Tamil Nadu,2010,Rice,5790415
+Tamil Nadu,2011,Rice,6601073.1
+Tamil Nadu,2012,Rice,6369456.5
+Tamil Nadu,2013,Rice,6774785.55
+Tamil Nadu,2014,Rice,6948498
+Tamil Nadu,2015,Rice,7180114.6
+Tamil Nadu,2016,Rice,7295922.9
+Tamil Nadu,2017,Rice,7701251.95
+Tamil Nadu,2018,Rice,7238018.75
+Tamil Nadu,2019,Rice,7817060.25
+Tripura,2010,Rice,725489
+Tripura,2011,Rice,827057.46
+Tripura,2012,Rice,798037.9
+Tripura,2013,Rice,848822.13
+Tripura,2014,Rice,870586.8
+Tripura,2015,Rice,899606.36
+Tripura,2016,Rice,914116.14
+Tripura,2017,Rice,964900.37
+Tripura,2018,Rice,906861.25
+Tripura,2019,Rice,979410.15
+Uttar Pradesh,2010,Rice,12307299
+Uttar Pradesh,2011,Rice,14030320.86
+Uttar Pradesh,2012,Rice,13538028.9
+Uttar Pradesh,2013,Rice,14399539.83
+Uttar Pradesh,2014,Rice,14768758.8
+Uttar Pradesh,2015,Rice,15261050.76
+Uttar Pradesh,2016,Rice,15507196.74
+Uttar Pradesh,2017,Rice,16368707.67
+Uttar Pradesh,2018,Rice,15384123.75
+Uttar Pradesh,2019,Rice,16614853.65
+Uttarakhand,2010,Rice,450943
+Uttarakhand,2011,Rice,514075.02
+Uttarakhand,2012,Rice,496037.3
+Uttarakhand,2013,Rice,527603.31
+Uttarakhand,2014,Rice,541131.6
+Uttarakhand,2015,Rice,559169.32
+Uttarakhand,2016,Rice,568188.18
+Uttarakhand,2017,Rice,599754.19
+Uttarakhand,2018,Rice,563678.75
+Uttarakhand,2019,Rice,608773.05
+West Bengal,2010,Rice,14070284
+West Bengal,2011,Rice,16040123.76
+West Bengal,2012,Rice,15477312.4
+West Bengal,2013,Rice,16462232.28
+West Bengal,2014,Rice,16884340.8
+West Bengal,2015,Rice,17447152.16
+West Bengal,2016,Rice,17728557.84
+West Bengal,2017,Rice,18713477.72
+West Bengal,2018,Rice,17587855
+West Bengal,2019,Rice,18994883.4
+Andaman and Nicobar Islands,2010,Tomato,2744.7124
+Andaman and Nicobar Islands,2011,Tomato,3128.972136
+Andaman and Nicobar Islands,2012,Tomato,3019.18364
+Andaman and Nicobar Islands,2013,Tomato,3211.313508
+Andaman and Nicobar Islands,2014,Tomato,3293.65488
+Andaman and Nicobar Islands,2015,Tomato,3403.443376
+Andaman and Nicobar Islands,2016,Tomato,3458.337624
+Andaman and Nicobar Islands,2017,Tomato,3650.467492
+Andaman and Nicobar Islands,2018,Tomato,3430.8905
+Andaman and Nicobar Islands,2019,Tomato,3705.36174
+Andhra Pradesh,2010,Tomato,676644
+Andhra Pradesh,2011,Tomato,771374.16
+Andhra Pradesh,2012,Tomato,744308.4
+Andhra Pradesh,2013,Tomato,791673.48
+Andhra Pradesh,2014,Tomato,811972.8
+Andhra Pradesh,2015,Tomato,839038.56
+Andhra Pradesh,2016,Tomato,852571.44
+Andhra Pradesh,2017,Tomato,899936.52
+Andhra Pradesh,2018,Tomato,845805
+Andhra Pradesh,2019,Tomato,913469.4
+Arunachal Pradesh,2010,Tomato,10054.5
+Arunachal Pradesh,2011,Tomato,11462.13
+Arunachal Pradesh,2012,Tomato,11059.95
+Arunachal Pradesh,2013,Tomato,11763.765
+Arunachal Pradesh,2014,Tomato,12065.4
+Arunachal Pradesh,2015,Tomato,12467.58
+Arunachal Pradesh,2016,Tomato,12668.67
+Arunachal Pradesh,2017,Tomato,13372.485
+Arunachal Pradesh,2018,Tomato,12568.125
+Arunachal Pradesh,2019,Tomato,13573.575
+Assam,2010,Tomato,232215.3552
+Assam,2011,Tomato,264725.5049
+Assam,2012,Tomato,255436.8907
+Assam,2013,Tomato,271691.9656
+Assam,2014,Tomato,278658.4262
+Assam,2015,Tomato,287947.0404
+Assam,2016,Tomato,292591.3476
+Assam,2017,Tomato,308846.4224
+Assam,2018,Tomato,290269.194
+Assam,2019,Tomato,313490.7295
+Bihar,2010,Tomato,763533.9525
+Bihar,2011,Tomato,870428.7059
+Bihar,2012,Tomato,839887.3478
+Bihar,2013,Tomato,893334.7244
+Bihar,2014,Tomato,916240.743
+Bihar,2015,Tomato,946782.1011
+Bihar,2016,Tomato,962052.7802
+Bihar,2017,Tomato,1015500.157
+Bihar,2018,Tomato,954417.4406
+Bihar,2019,Tomato,1030770.836
+Chandigarh,2010,Tomato,7492.907
+Chandigarh,2011,Tomato,8541.91398
+Chandigarh,2012,Tomato,8242.1977
+Chandigarh,2013,Tomato,8766.70119
+Chandigarh,2014,Tomato,8991.4884
+Chandigarh,2015,Tomato,9291.20468
+Chandigarh,2016,Tomato,9441.06282
+Chandigarh,2017,Tomato,9965.56631
+Chandigarh,2018,Tomato,9366.13375
+Chandigarh,2019,Tomato,10115.42445
+Chhattisgarh,2010,Tomato,172786.215
+Chhattisgarh,2011,Tomato,196976.2851
+Chhattisgarh,2012,Tomato,190064.8365
+Chhattisgarh,2013,Tomato,202159.8716
+Chhattisgarh,2014,Tomato,207343.458
+Chhattisgarh,2015,Tomato,214254.9066
+Chhattisgarh,2016,Tomato,217710.6309
+Chhattisgarh,2017,Tomato,229805.666
+Chhattisgarh,2018,Tomato,215982.7688
+Chhattisgarh,2019,Tomato,233261.3903
+Dadra and Nagar Haveli,2010,Tomato,2502.93
+Dadra and Nagar Haveli,2011,Tomato,2853.3402
+Dadra and Nagar Haveli,2012,Tomato,2753.223
+Dadra and Nagar Haveli,2013,Tomato,2928.4281
+Dadra and Nagar Haveli,2014,Tomato,3003.516
+Dadra and Nagar Haveli,2015,Tomato,3103.6332
+Dadra and Nagar Haveli,2016,Tomato,3153.6918
+Dadra and Nagar Haveli,2017,Tomato,3328.8969
+Dadra and Nagar Haveli,2018,Tomato,3128.6625
+Dadra and Nagar Haveli,2019,Tomato,3378.9555
+Daman and Diu,2010,Tomato,1791.4872
+Daman and Diu,2011,Tomato,2042.295408
+Daman and Diu,2012,Tomato,1970.63592
+Daman and Diu,2013,Tomato,2096.040024
+Daman and Diu,2014,Tomato,2149.78464
+Daman and Diu,2015,Tomato,2221.444128
+Daman and Diu,2016,Tomato,2257.273872
+Daman and Diu,2017,Tomato,2382.677976
+Daman and Diu,2018,Tomato,2239.359
+Daman and Diu,2019,Tomato,2418.50772
+Delhi,2010,Tomato,114506.1764
+Delhi,2011,Tomato,130537.0411
+Delhi,2012,Tomato,125956.794
+Delhi,2013,Tomato,133972.2264
+Delhi,2014,Tomato,137407.4117
+Delhi,2015,Tomato,141987.6587
+Delhi,2016,Tomato,144277.7823
+Delhi,2017,Tomato,152293.2146
+Delhi,2018,Tomato,143132.7205
+Delhi,2019,Tomato,154583.3381
+Goa,2010,Tomato,11060.7112
+Goa,2011,Tomato,12609.21077
+Goa,2012,Tomato,12166.78232
+Goa,2013,Tomato,12941.0321
+Goa,2014,Tomato,13272.85344
+Goa,2015,Tomato,13715.28189
+Goa,2016,Tomato,13936.49611
+Goa,2017,Tomato,14710.7459
+Goa,2018,Tomato,13825.889
+Goa,2019,Tomato,14931.96012
+Gujarat,2010,Tomato,460942.2356
+Gujarat,2011,Tomato,525474.1486
+Gujarat,2012,Tomato,507036.4592
+Gujarat,2013,Tomato,539302.4157
+Gujarat,2014,Tomato,553130.6827
+Gujarat,2015,Tomato,571568.3721
+Gujarat,2016,Tomato,580787.2169
+Gujarat,2017,Tomato,613053.1733
+Gujarat,2018,Tomato,576177.7945
+Gujarat,2019,Tomato,622272.0181
+Haryana,2010,Tomato,163843.59
+Haryana,2011,Tomato,186781.6926
+Haryana,2012,Tomato,180227.949
+Haryana,2013,Tomato,191697.0003
+Haryana,2014,Tomato,196612.308
+Haryana,2015,Tomato,203166.0516
+Haryana,2016,Tomato,206442.9234
+Haryana,2017,Tomato,217911.9747
+Haryana,2018,Tomato,204804.4875
+Haryana,2019,Tomato,221188.8465
+Himachal Pradesh,2010,Tomato,49036.4025
+Himachal Pradesh,2011,Tomato,55901.49885
+Himachal Pradesh,2012,Tomato,53940.04275
+Himachal Pradesh,2013,Tomato,57372.59093
+Himachal Pradesh,2014,Tomato,58843.683
+Himachal Pradesh,2015,Tomato,60805.1391
+Himachal Pradesh,2016,Tomato,61785.86715
+Himachal Pradesh,2017,Tomato,65218.41533
+Himachal Pradesh,2018,Tomato,61295.50313
+Himachal Pradesh,2019,Tomato,66199.14338
+Jammu and Kashmir,2010,Tomato,81691.6192
+Jammu and Kashmir,2011,Tomato,93128.44589
+Jammu and Kashmir,2012,Tomato,89860.78112
+Jammu and Kashmir,2013,Tomato,95579.19446
+Jammu and Kashmir,2014,Tomato,98029.94304
+Jammu and Kashmir,2015,Tomato,101297.6078
+Jammu and Kashmir,2016,Tomato,102931.4402
+Jammu and Kashmir,2017,Tomato,108649.8535
+Jammu and Kashmir,2018,Tomato,102114.524
+Jammu and Kashmir,2019,Tomato,110283.6859
+Jharkhand,2010,Tomato,242229.0088
+Jharkhand,2011,Tomato,276141.07
+Jharkhand,2012,Tomato,266451.9097
+Jharkhand,2013,Tomato,283407.9403
+Jharkhand,2014,Tomato,290674.8106
+Jharkhand,2015,Tomato,300363.9709
+Jharkhand,2016,Tomato,305208.5511
+Jharkhand,2017,Tomato,322164.5817
+Jharkhand,2018,Tomato,302786.261
+Jharkhand,2019,Tomato,327009.1619
+Karnataka,2010,Tomato,461193.9717
+Karnataka,2011,Tomato,525761.1277
+Karnataka,2012,Tomato,507313.3689
+Karnataka,2013,Tomato,539596.9469
+Karnataka,2014,Tomato,553432.766
+Karnataka,2015,Tomato,571880.5249
+Karnataka,2016,Tomato,581104.4043
+Karnataka,2017,Tomato,613387.9824
+Karnataka,2018,Tomato,576492.4646
+Karnataka,2019,Tomato,622611.8618
+Kerala,2010,Tomato,243953.3272
+Kerala,2011,Tomato,278106.793
+Kerala,2012,Tomato,268348.6599
+Kerala,2013,Tomato,285425.3928
+Kerala,2014,Tomato,292743.9926
+Kerala,2015,Tomato,302502.1257
+Kerala,2016,Tomato,307381.1923
+Kerala,2017,Tomato,324457.9252
+Kerala,2018,Tomato,304941.659
+Kerala,2019,Tomato,329336.9917
+Lakshadweep,2010,Tomato,447.7536
+Lakshadweep,2011,Tomato,510.439104
+Lakshadweep,2012,Tomato,492.52896
+Lakshadweep,2013,Tomato,523.871712
+Lakshadweep,2014,Tomato,537.30432
+Lakshadweep,2015,Tomato,555.214464
+Lakshadweep,2016,Tomato,564.169536
+Lakshadweep,2017,Tomato,595.512288
+Lakshadweep,2018,Tomato,559.692
+Lakshadweep,2019,Tomato,604.46736
+Madhya Pradesh,2010,Tomato,548952.6735
+Madhya Pradesh,2011,Tomato,625806.0478
+Madhya Pradesh,2012,Tomato,603847.9409
+Madhya Pradesh,2013,Tomato,642274.628
+Madhya Pradesh,2014,Tomato,658743.2082
+Madhya Pradesh,2015,Tomato,680701.3151
+Madhya Pradesh,2016,Tomato,691680.3686
+Madhya Pradesh,2017,Tomato,730107.0558
+Madhya Pradesh,2018,Tomato,686190.8419
+Madhya Pradesh,2019,Tomato,741086.1092
+Maharastra,2010,Tomato,846144.6224
+Maharastra,2011,Tomato,964604.8695
+Maharastra,2012,Tomato,930759.0846
+Maharastra,2013,Tomato,989989.2082
+Maharastra,2014,Tomato,1015373.547
+Maharastra,2015,Tomato,1049219.332
+Maharastra,2016,Tomato,1066142.224
+Maharastra,2017,Tomato,1125372.348
+Maharastra,2018,Tomato,1057680.778
+Maharastra,2019,Tomato,1142295.24
+Manipur,2010,Tomato,18905.235
+Manipur,2011,Tomato,21551.9679
+Manipur,2012,Tomato,20795.7585
+Manipur,2013,Tomato,22119.12495
+Manipur,2014,Tomato,22686.282
+Manipur,2015,Tomato,23442.4914
+Manipur,2016,Tomato,23820.5961
+Manipur,2017,Tomato,25143.96255
+Manipur,2018,Tomato,23631.54375
+Manipur,2019,Tomato,25522.06725
+Meghalaya,2010,Tomato,22125.0525
+Meghalaya,2011,Tomato,25222.55985
+Meghalaya,2012,Tomato,24337.55775
+Meghalaya,2013,Tomato,25886.31143
+Meghalaya,2014,Tomato,26550.063
+Meghalaya,2015,Tomato,27435.0651
+Meghalaya,2016,Tomato,27877.56615
+Meghalaya,2017,Tomato,29426.31983
+Meghalaya,2018,Tomato,27656.31563
+Meghalaya,2019,Tomato,29868.82088
+Mizoram,2010,Tomato,8238.855
+Mizoram,2011,Tomato,9392.2947
+Mizoram,2012,Tomato,9062.7405
+Mizoram,2013,Tomato,9639.46035
+Mizoram,2014,Tomato,9886.626
+Mizoram,2015,Tomato,10216.1802
+Mizoram,2016,Tomato,10380.9573
+Mizoram,2017,Tomato,10957.67715
+Mizoram,2018,Tomato,10298.56875
+Mizoram,2019,Tomato,11122.45425
+Nagaland,2010,Tomato,14027.3808
+Nagaland,2011,Tomato,15991.21411
+Nagaland,2012,Tomato,15430.11888
+Nagaland,2013,Tomato,16412.03554
+Nagaland,2014,Tomato,16832.85696
+Nagaland,2015,Tomato,17393.95219
+Nagaland,2016,Tomato,17674.49981
+Nagaland,2017,Tomato,18656.41646
+Nagaland,2018,Tomato,17534.226
+Nagaland,2019,Tomato,18936.96408
+Odisha,2010,Tomato,295928.6492
+Odisha,2011,Tomato,337358.6601
+Odisha,2012,Tomato,325521.5141
+Odisha,2013,Tomato,346236.5196
+Odisha,2014,Tomato,355114.379
+Odisha,2015,Tomato,366951.525
+Odisha,2016,Tomato,372870.098
+Odisha,2017,Tomato,393585.1034
+Odisha,2018,Tomato,369910.8115
+Odisha,2019,Tomato,399503.6764
+Puducherry,2010,Tomato,9226.665
+Puducherry,2011,Tomato,10518.3981
+Puducherry,2012,Tomato,10149.3315
+Puducherry,2013,Tomato,10795.19805
+Puducherry,2014,Tomato,11071.998
+Puducherry,2015,Tomato,11441.0646
+Puducherry,2016,Tomato,11625.5979
+Puducherry,2017,Tomato,12271.46445
+Puducherry,2018,Tomato,11533.33125
+Puducherry,2019,Tomato,12455.99775
+Punjab,2010,Tomato,206903.91
+Punjab,2011,Tomato,235870.4574
+Punjab,2012,Tomato,227594.301
+Punjab,2013,Tomato,242077.5747
+Punjab,2014,Tomato,248284.692
+Punjab,2015,Tomato,256560.8484
+Punjab,2016,Tomato,260698.9266
+Punjab,2017,Tomato,275182.2003
+Punjab,2018,Tomato,258629.8875
+Punjab,2019,Tomato,279320.2785
+Rajasthan,2010,Tomato,501027.9197
+Rajasthan,2011,Tomato,571171.8285
+Rajasthan,2012,Tomato,551130.7117
+Rajasthan,2013,Tomato,586202.666
+Rajasthan,2014,Tomato,601233.5036
+Rajasthan,2015,Tomato,621274.6204
+Rajasthan,2016,Tomato,631295.1788
+Rajasthan,2017,Tomato,666367.1332
+Rajasthan,2018,Tomato,626284.8996
+Rajasthan,2019,Tomato,676387.6916
+Sikkim,2010,Tomato,4423.4166
+Sikkim,2011,Tomato,5042.694924
+Sikkim,2012,Tomato,4865.75826
+Sikkim,2013,Tomato,5175.397422
+Sikkim,2014,Tomato,5308.09992
+Sikkim,2015,Tomato,5485.036584
+Sikkim,2016,Tomato,5573.504916
+Sikkim,2017,Tomato,5883.144078
+Sikkim,2018,Tomato,5529.27075
+Sikkim,2019,Tomato,5971.61241
+Tamil Nadu,2010,Tomato,542694.1905
+Tamil Nadu,2011,Tomato,618671.3772
+Tamil Nadu,2012,Tomato,596963.6096
+Tamil Nadu,2013,Tomato,634952.2029
+Tamil Nadu,2014,Tomato,651233.0286
+Tamil Nadu,2015,Tomato,672940.7962
+Tamil Nadu,2016,Tomato,683794.68
+Tamil Nadu,2017,Tomato,721783.2734
+Tamil Nadu,2018,Tomato,678367.7381
+Tamil Nadu,2019,Tomato,732637.1572
+Tripura,2010,Tomato,25012.395
+Tripura,2011,Tomato,28514.1303
+Tripura,2012,Tomato,27513.6345
+Tripura,2013,Tomato,29264.50215
+Tripura,2014,Tomato,30014.874
+Tripura,2015,Tomato,31015.3698
+Tripura,2016,Tomato,31515.6177
+Tripura,2017,Tomato,33266.48535
+Tripura,2018,Tomato,31265.49375
+Tripura,2019,Tomato,33766.73325
+Uttar Pradesh,2010,Tomato,1482946.242
+Uttar Pradesh,2011,Tomato,1690558.716
+Uttar Pradesh,2012,Tomato,1631240.866
+Uttar Pradesh,2013,Tomato,1735047.103
+Uttar Pradesh,2014,Tomato,1779535.49
+Uttar Pradesh,2015,Tomato,1838853.34
+Uttar Pradesh,2016,Tomato,1868512.265
+Uttar Pradesh,2017,Tomato,1972318.501
+Uttar Pradesh,2018,Tomato,1853682.802
+Uttar Pradesh,2019,Tomato,2001977.426
+Uttarakhand,2010,Tomato,73262.553
+Uttarakhand,2011,Tomato,83519.31042
+Uttarakhand,2012,Tomato,80588.8083
+Uttarakhand,2013,Tomato,85717.18701
+Uttarakhand,2014,Tomato,87915.0636
+Uttarakhand,2015,Tomato,90845.56572
+Uttarakhand,2016,Tomato,92310.81678
+Uttarakhand,2017,Tomato,97439.19549
+Uttarakhand,2018,Tomato,91578.19125
+Uttarakhand,2019,Tomato,98904.44655
+West Bengal,2010,Tomato,671700.105
+West Bengal,2011,Tomato,765738.1197
+West Bengal,2012,Tomato,738870.1155
+West Bengal,2013,Tomato,785889.1229
+West Bengal,2014,Tomato,806040.126
+West Bengal,2015,Tomato,832908.1302
+West Bengal,2016,Tomato,846342.1323
+West Bengal,2017,Tomato,893361.1397
+West Bengal,2018,Tomato,839625.1313
+West Bengal,2019,Tomato,906795.1418
+Andaman and Nicobar Islands,2010,Wheat,6782
+Andaman and Nicobar Islands,2011,Wheat,7731.48
+Andaman and Nicobar Islands,2012,Wheat,7460.2
+Andaman and Nicobar Islands,2013,Wheat,7934.94
+Andaman and Nicobar Islands,2014,Wheat,8138.4
+Andaman and Nicobar Islands,2015,Wheat,8409.68
+Andaman and Nicobar Islands,2016,Wheat,8545.32
+Andaman and Nicobar Islands,2017,Wheat,9020.06
+Andaman and Nicobar Islands,2018,Wheat,8477.5
+Andaman and Nicobar Islands,2019,Wheat,9155.7
+Andhra Pradesh,2010,Wheat,50456
+Andhra Pradesh,2011,Wheat,57519.84
+Andhra Pradesh,2012,Wheat,55501.6
+Andhra Pradesh,2013,Wheat,59033.52
+Andhra Pradesh,2014,Wheat,60547.2
+Andhra Pradesh,2015,Wheat,62565.44
+Andhra Pradesh,2016,Wheat,63574.56
+Andhra Pradesh,2017,Wheat,67106.48
+Andhra Pradesh,2018,Wheat,63070
+Andhra Pradesh,2019,Wheat,68115.6
+Arunachal Pradesh,2010,Wheat,10556
+Arunachal Pradesh,2011,Wheat,12033.84
+Arunachal Pradesh,2012,Wheat,11611.6
+Arunachal Pradesh,2013,Wheat,12350.52
+Arunachal Pradesh,2014,Wheat,12667.2
+Arunachal Pradesh,2015,Wheat,13089.44
+Arunachal Pradesh,2016,Wheat,13300.56
+Arunachal Pradesh,2017,Wheat,14039.48
+Arunachal Pradesh,2018,Wheat,13195
+Arunachal Pradesh,2019,Wheat,14250.6
+Assam,2010,Wheat,50817
+Assam,2011,Wheat,57931.38
+Assam,2012,Wheat,55898.7
+Assam,2013,Wheat,59455.89
+Assam,2014,Wheat,60980.4
+Assam,2015,Wheat,63013.08
+Assam,2016,Wheat,64029.42
+Assam,2017,Wheat,67586.61
+Assam,2018,Wheat,63521.25
+Assam,2019,Wheat,68602.95
+Bihar,2010,Wheat,3045121
+Bihar,2011,Wheat,3471437.94
+Bihar,2012,Wheat,3349633.1
+Bihar,2013,Wheat,3562791.57
+Bihar,2014,Wheat,3654145.2
+Bihar,2015,Wheat,3775950.04
+Bihar,2016,Wheat,3836852.46
+Bihar,2017,Wheat,4050010.93
+Bihar,2018,Wheat,3806401.25
+Bihar,2019,Wheat,4110913.35
+Chandigarh,2010,Wheat,5703
+Chandigarh,2011,Wheat,6501.42
+Chandigarh,2012,Wheat,6273.3
+Chandigarh,2013,Wheat,6672.51
+Chandigarh,2014,Wheat,6843.6
+Chandigarh,2015,Wheat,7071.72
+Chandigarh,2016,Wheat,7185.78
+Chandigarh,2017,Wheat,7584.99
+Chandigarh,2018,Wheat,7128.75
+Chandigarh,2019,Wheat,7699.05
+Chhattisgarh,2010,Wheat,638789
+Chhattisgarh,2011,Wheat,728219.46
+Chhattisgarh,2012,Wheat,702667.9
+Chhattisgarh,2013,Wheat,747383.13
+Chhattisgarh,2014,Wheat,766546.8
+Chhattisgarh,2015,Wheat,792098.36
+Chhattisgarh,2016,Wheat,804874.14
+Chhattisgarh,2017,Wheat,849589.37
+Chhattisgarh,2018,Wheat,798486.25
+Chhattisgarh,2019,Wheat,862365.15
+Dadra and Nagar Haveli,2010,Wheat,3977
+Dadra and Nagar Haveli,2011,Wheat,4533.78
+Dadra and Nagar Haveli,2012,Wheat,4374.7
+Dadra and Nagar Haveli,2013,Wheat,4653.09
+Dadra and Nagar Haveli,2014,Wheat,4772.4
+Dadra and Nagar Haveli,2015,Wheat,4931.48
+Dadra and Nagar Haveli,2016,Wheat,5011.02
+Dadra and Nagar Haveli,2017,Wheat,5289.41
+Dadra and Nagar Haveli,2018,Wheat,4971.25
+Dadra and Nagar Haveli,2019,Wheat,5368.95
+Daman and Diu,2010,Wheat,32890
+Daman and Diu,2011,Wheat,37494.6
+Daman and Diu,2012,Wheat,36179
+Daman and Diu,2013,Wheat,38481.3
+Daman and Diu,2014,Wheat,39468
+Daman and Diu,2015,Wheat,40783.6
+Daman and Diu,2016,Wheat,41441.4
+Daman and Diu,2017,Wheat,43743.7
+Daman and Diu,2018,Wheat,41112.5
+Daman and Diu,2019,Wheat,44401.5
+Delhi,2010,Wheat,1056232
+Delhi,2011,Wheat,1204104.48
+Delhi,2012,Wheat,1161855.2
+Delhi,2013,Wheat,1235791.44
+Delhi,2014,Wheat,1267478.4
+Delhi,2015,Wheat,1309727.68
+Delhi,2016,Wheat,1330852.32
+Delhi,2017,Wheat,1404788.56
+Delhi,2018,Wheat,1320290
+Delhi,2019,Wheat,1425913.2
+Goa,2010,Wheat,8567
+Goa,2011,Wheat,9766.38
+Goa,2012,Wheat,9423.7
+Goa,2013,Wheat,10023.39
+Goa,2014,Wheat,10280.4
+Goa,2015,Wheat,10623.08
+Goa,2016,Wheat,10794.42
+Goa,2017,Wheat,11394.11
+Goa,2018,Wheat,10708.75
+Goa,2019,Wheat,11565.45
+Gujarat,2010,Wheat,4016120
+Gujarat,2011,Wheat,4578376.8
+Gujarat,2012,Wheat,4417732
+Gujarat,2013,Wheat,4698860.4
+Gujarat,2014,Wheat,4819344
+Gujarat,2015,Wheat,4979988.8
+Gujarat,2016,Wheat,5060311.2
+Gujarat,2017,Wheat,5341439.6
+Gujarat,2018,Wheat,5020150
+Gujarat,2019,Wheat,5421762
+Haryana,2010,Wheat,9086496
+Haryana,2011,Wheat,10358605.44
+Haryana,2012,Wheat,9995145.6
+Haryana,2013,Wheat,10631200.32
+Haryana,2014,Wheat,10903795.2
+Haryana,2015,Wheat,11267255.04
+Haryana,2016,Wheat,11448984.96
+Haryana,2017,Wheat,12085039.68
+Haryana,2018,Wheat,11358120
+Haryana,2019,Wheat,12266769.6
+Himachal Pradesh,2010,Wheat,718567
+Himachal Pradesh,2011,Wheat,819166.38
+Himachal Pradesh,2012,Wheat,790423.7
+Himachal Pradesh,2013,Wheat,840723.39
+Himachal Pradesh,2014,Wheat,862280.4
+Himachal Pradesh,2015,Wheat,891023.08
+Himachal Pradesh,2016,Wheat,905394.42
+Himachal Pradesh,2017,Wheat,955694.11
+Himachal Pradesh,2018,Wheat,898208.75
+Himachal Pradesh,2019,Wheat,970065.45
+Jammu and Kashmir,2010,Wheat,488304
+Jammu and Kashmir,2011,Wheat,556666.56
+Jammu and Kashmir,2012,Wheat,537134.4
+Jammu and Kashmir,2013,Wheat,571315.68
+Jammu and Kashmir,2014,Wheat,585964.8
+Jammu and Kashmir,2015,Wheat,605496.96
+Jammu and Kashmir,2016,Wheat,615263.04
+Jammu and Kashmir,2017,Wheat,649444.32
+Jammu and Kashmir,2018,Wheat,610380
+Jammu and Kashmir,2019,Wheat,659210.4
+Jharkhand,2010,Wheat,54284
+Jharkhand,2011,Wheat,61883.76
+Jharkhand,2012,Wheat,59712.4
+Jharkhand,2013,Wheat,63512.28
+Jharkhand,2014,Wheat,65140.8
+Jharkhand,2015,Wheat,67312.16
+Jharkhand,2016,Wheat,68397.84
+Jharkhand,2017,Wheat,72197.72
+Jharkhand,2018,Wheat,67855
+Jharkhand,2019,Wheat,73283.4
+Karnataka,2010,Wheat,248602
+Karnataka,2011,Wheat,283406.28
+Karnataka,2012,Wheat,273462.2
+Karnataka,2013,Wheat,290864.34
+Karnataka,2014,Wheat,298322.4
+Karnataka,2015,Wheat,308266.48
+Karnataka,2016,Wheat,313238.52
+Karnataka,2017,Wheat,330640.66
+Karnataka,2018,Wheat,310752.5
+Karnataka,2019,Wheat,335612.7
+Kerala,2010,Wheat,3245
+Kerala,2011,Wheat,3699.3
+Kerala,2012,Wheat,3569.5
+Kerala,2013,Wheat,3796.65
+Kerala,2014,Wheat,3894
+Kerala,2015,Wheat,4023.8
+Kerala,2016,Wheat,4088.7
+Kerala,2017,Wheat,4315.85
+Kerala,2018,Wheat,4056.25
+Kerala,2019,Wheat,4380.75
+Lakshadweep,2010,Wheat,1284
+Lakshadweep,2011,Wheat,1463.76
+Lakshadweep,2012,Wheat,1412.4
+Lakshadweep,2013,Wheat,1502.28
+Lakshadweep,2014,Wheat,1540.8
+Lakshadweep,2015,Wheat,1592.16
+Lakshadweep,2016,Wheat,1617.84
+Lakshadweep,2017,Wheat,1707.72
+Lakshadweep,2018,Wheat,1605
+Lakshadweep,2019,Wheat,1733.4
+Madhya Pradesh,2010,Wheat,15823079
+Madhya Pradesh,2011,Wheat,18038310.06
+Madhya Pradesh,2012,Wheat,17405386.9
+Madhya Pradesh,2013,Wheat,18513002.43
+Madhya Pradesh,2014,Wheat,18987694.8
+Madhya Pradesh,2015,Wheat,19620617.96
+Madhya Pradesh,2016,Wheat,19937079.54
+Madhya Pradesh,2017,Wheat,21044695.07
+Madhya Pradesh,2018,Wheat,19778848.75
+Madhya Pradesh,2019,Wheat,21361156.65
+Maharastra,2010,Wheat,5056390
+Maharastra,2011,Wheat,5764284.6
+Maharastra,2012,Wheat,5562029
+Maharastra,2013,Wheat,5915976.3
+Maharastra,2014,Wheat,6067668
+Maharastra,2015,Wheat,6269923.6
+Maharastra,2016,Wheat,6371051.4
+Maharastra,2017,Wheat,6724998.7
+Maharastra,2018,Wheat,6320487.5
+Maharastra,2019,Wheat,6826126.5
+Manipur,2010,Wheat,7206
+Manipur,2011,Wheat,8214.84
+Manipur,2012,Wheat,7926.6
+Manipur,2013,Wheat,8431.02
+Manipur,2014,Wheat,8647.2
+Manipur,2015,Wheat,8935.44
+Manipur,2016,Wheat,9079.56
+Manipur,2017,Wheat,9583.98
+Manipur,2018,Wheat,9007.5
+Manipur,2019,Wheat,9728.1
+Meghalaya,2010,Wheat,3786
+Meghalaya,2011,Wheat,4316.04
+Meghalaya,2012,Wheat,4164.6
+Meghalaya,2013,Wheat,4429.62
+Meghalaya,2014,Wheat,4543.2
+Meghalaya,2015,Wheat,4694.64
+Meghalaya,2016,Wheat,4770.36
+Meghalaya,2017,Wheat,5035.38
+Meghalaya,2018,Wheat,4732.5
+Meghalaya,2019,Wheat,5111.1
+Mizoram,2010,Wheat,500
+Mizoram,2011,Wheat,570
+Mizoram,2012,Wheat,550
+Mizoram,2013,Wheat,585
+Mizoram,2014,Wheat,600
+Mizoram,2015,Wheat,620
+Mizoram,2016,Wheat,630
+Mizoram,2017,Wheat,665
+Mizoram,2018,Wheat,625
+Mizoram,2019,Wheat,675
+Nagaland,2010,Wheat,5289
+Nagaland,2011,Wheat,6029.46
+Nagaland,2012,Wheat,5817.9
+Nagaland,2013,Wheat,6188.13
+Nagaland,2014,Wheat,6346.8
+Nagaland,2015,Wheat,6558.36
+Nagaland,2016,Wheat,6664.14
+Nagaland,2017,Wheat,7034.37
+Nagaland,2018,Wheat,6611.25
+Nagaland,2019,Wheat,7140.15
+Odisha,2010,Wheat,4168
+Odisha,2011,Wheat,4751.52
+Odisha,2012,Wheat,4584.8
+Odisha,2013,Wheat,4876.56
+Odisha,2014,Wheat,5001.6
+Odisha,2015,Wheat,5168.32
+Odisha,2016,Wheat,5251.68
+Odisha,2017,Wheat,5543.44
+Odisha,2018,Wheat,5210
+Odisha,2019,Wheat,5626.8
+Puducherry,2010,Wheat,2890
+Puducherry,2011,Wheat,3294.6
+Puducherry,2012,Wheat,3179
+Puducherry,2013,Wheat,3381.3
+Puducherry,2014,Wheat,3468
+Puducherry,2015,Wheat,3583.6
+Puducherry,2016,Wheat,3641.4
+Puducherry,2017,Wheat,3843.7
+Puducherry,2018,Wheat,3612.5
+Puducherry,2019,Wheat,3901.5
+Punjab,2010,Wheat,9587301
+Punjab,2011,Wheat,10929523.14
+Punjab,2012,Wheat,10546031.1
+Punjab,2013,Wheat,11217142.17
+Punjab,2014,Wheat,11504761.2
+Punjab,2015,Wheat,11888253.24
+Punjab,2016,Wheat,12079999.26
+Punjab,2017,Wheat,12751110.33
+Punjab,2018,Wheat,11984126.25
+Punjab,2019,Wheat,12942856.35
+Rajasthan,2010,Wheat,9078105
+Rajasthan,2011,Wheat,10349039.7
+Rajasthan,2012,Wheat,9985915.5
+Rajasthan,2013,Wheat,10621382.85
+Rajasthan,2014,Wheat,10893726
+Rajasthan,2015,Wheat,11256850.2
+Rajasthan,2016,Wheat,11438412.3
+Rajasthan,2017,Wheat,12073879.65
+Rajasthan,2018,Wheat,11347631.25
+Rajasthan,2019,Wheat,12255441.75
+Sikkim,2010,Wheat,3000
+Sikkim,2011,Wheat,3420
+Sikkim,2012,Wheat,3300
+Sikkim,2013,Wheat,3510
+Sikkim,2014,Wheat,3600
+Sikkim,2015,Wheat,3720
+Sikkim,2016,Wheat,3780
+Sikkim,2017,Wheat,3990
+Sikkim,2018,Wheat,3750
+Sikkim,2019,Wheat,4050
+Tamil Nadu,2010,Wheat,25650
+Tamil Nadu,2011,Wheat,29241
+Tamil Nadu,2012,Wheat,28215
+Tamil Nadu,2013,Wheat,30010.5
+Tamil Nadu,2014,Wheat,30780
+Tamil Nadu,2015,Wheat,31806
+Tamil Nadu,2016,Wheat,32319
+Tamil Nadu,2017,Wheat,34114.5
+Tamil Nadu,2018,Wheat,32062.5
+Tamil Nadu,2019,Wheat,34627.5
+Tripura,2010,Wheat,4637
+Tripura,2011,Wheat,5286.18
+Tripura,2012,Wheat,5100.7
+Tripura,2013,Wheat,5425.29
+Tripura,2014,Wheat,5564.4
+Tripura,2015,Wheat,5749.88
+Tripura,2016,Wheat,5842.62
+Tripura,2017,Wheat,6167.21
+Tripura,2018,Wheat,5796.25
+Tripura,2019,Wheat,6259.95
+Uttar Pradesh,2010,Wheat,18056700
+Uttar Pradesh,2011,Wheat,20584638
+Uttar Pradesh,2012,Wheat,19862370
+Uttar Pradesh,2013,Wheat,21126339
+Uttar Pradesh,2014,Wheat,21668040
+Uttar Pradesh,2015,Wheat,22390308
+Uttar Pradesh,2016,Wheat,22751442
+Uttar Pradesh,2017,Wheat,24015411
+Uttar Pradesh,2018,Wheat,22570875
+Uttar Pradesh,2019,Wheat,24376545
+Uttarakhand,2010,Wheat,1020178
+Uttarakhand,2011,Wheat,1163002.92
+Uttarakhand,2012,Wheat,1122195.8
+Uttarakhand,2013,Wheat,1193608.26
+Uttarakhand,2014,Wheat,1224213.6
+Uttarakhand,2015,Wheat,1265020.72
+Uttarakhand,2016,Wheat,1285424.28
+Uttarakhand,2017,Wheat,1356836.74
+Uttarakhand,2018,Wheat,1275222.5
+Uttarakhand,2019,Wheat,1377240.3
+West Bengal,2010,Wheat,672121
+West Bengal,2011,Wheat,766217.94
+West Bengal,2012,Wheat,739333.1
+West Bengal,2013,Wheat,786381.57
+West Bengal,2014,Wheat,806545.2
+West Bengal,2015,Wheat,833430.04
+West Bengal,2016,Wheat,846872.46
+West Bengal,2017,Wheat,893920.93
+West Bengal,2018,Wheat,840151.25
+West Bengal,2019,Wheat,907363.35
